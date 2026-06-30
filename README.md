@@ -252,4 +252,4 @@ Applying a rigorous multi‑model ensemble — spanning evolutionary fitness (ES
 | 9    | 14  | P89K;K126S;H139E;S147Q;Y151L;N185S;K209Y;H231A   | 48.37 | 3.36         | 0.809       | CORE muts |
 ### Candidate selection visualization via Pareto front
 
-![[pareto-candidates.png]]
+![](pareto-candidates.png)
