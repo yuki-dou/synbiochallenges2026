@@ -1,0 +1,2254 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+ *** THIS IS AN IMPORTANT MESSAGE: 
+ >> External parametrized molecules were detected...
+ >> Final energetic values will depend of the correct parametrization of this molecules. 
+
+
+1 models read: 2B3P_new.pdb
+1 models read: 2B3P_new.pdb
+
+BackHbond       =               -158.32
+SideHbond       =               -49.43
+Energy_VdW      =               -257.77
+Electro         =               -10.18
+Energy_SolvP    =               355.02
+Energy_SolvH    =               -336.57
+Energy_vdwclash =               22.88
+energy_torsion  =               15.70
+backbone_vdwclash=              62.77
+Entropy_sidec   =               129.32
+Entropy_mainc   =               347.72
+water bonds     =               0.00
+helix dipole    =               0.00
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.54
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  62.04
+
+
+BackHbond       =               -158.32
+SideHbond       =               -49.43
+Energy_VdW      =               -257.77
+Electro         =               -10.18
+Energy_SolvP    =               355.02
+Energy_SolvH    =               -336.57
+Energy_vdwclash =               22.88
+energy_torsion  =               15.70
+backbone_vdwclash=              62.77
+Entropy_sidec   =               129.32
+Entropy_mainc   =               347.72
+water bonds     =               0.00
+helix dipole    =               0.00
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.54
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  62.04
+
+Starting BuildModel
+Reading KA26I,QA94A,PA211D,EA222P;
+Reading WA57A,KA113C;
+Reading TA108L,EA172H;
+Reading LA64A,VA68K,PA192M;
+Reading VA22C,HA25E,TA49I,VA55S,RA80L,DA102G,QA157G,VA219M;
+Reading AA37I,LA42A,DA82C,EA90R,YA106V,LA125G,NA146A,NA164H,LA201I,LA221V,TA230P,HA231V;
+Reading DA103C,AA154V;
+Reading VA68K,DA103R,KA107A,KA113H,KA214H;
+Reading FA46V,KA107S,GA189Y,DA216N;
+Reading GA10A,NA39A,HA169T;
+Reading EA17M,HA25N,YA74H,PA192L,PA196G,AA227R;
+Reading LA178D;
+Reading TA38N,LA42S,LA201V;
+Reading PA89K,KA126S,HA139E,SA147Q,YA151L,NA185S,KA209Y,HA231A;
+Reading IA14R,CA48P,DA76Q,DA133S,NA144C,NA146D,NA149L,FA165Q,DA173R,GA191R,KA209G;
+Reading GA4D,TA9W,EA34D,TA49A,FA83L,RA96P,RA109T,KA131Q,NA212K,HA231V;
+Reading GA33T,MA88R,VA93H,RA122F,HA148G,NA149S,LA201V,LA207V;
+Reading FA8N,KA45H,TA50A,PA75A,SA86G,GA127A,SA147P,DA173A,AA179V;
+Reading GA10M,GA20N,SA72Y,RA80L,EA111S,GA134D,AA154N,RA168P,EA172G;
+Reading TA38S,DA82I;
+Reading VA16D,DA19A,HA25L,SA28Q,GA33V,LA42I,LA60I,KA85A,SA86T,AA87R,SA99I,DA117P,NA135S,HA139N,EA142C,IA152A,NA159C,NA164H,SA175A,QA177H,QA183Y,PA187L,IA188A,QA204Y;
+Reading VA61I,HA81G,IA98T,LA137V,EA172H,DA180C,SA202N,TA225D;
+Reading TA38E,LA44G,TA63V,YA74A,FA83L,MA88H,GA160T,SA175M,QA183L,LA194A,QA204A,SA208Q,NA212G,DA216R;
+Reading LA15I,KA45C,KA79R,AA110G,VA112L,DA117R,GA127V,HA139R,AA163V,IA167S,LA194M,NA198R,TA203K,LA207R;
+Reading PA192L;
+Reading SA28A,VA29T,NA39A,LA44E,KA113S,NA144S,FA165S;
+Reading VA61S;
+Reading VA11T,VA55T,TA63P,EA111S,DA129L,IA136V,KA140M,SA147Y,EA172G;
+Reading RA109P;
+Reading GA51L;
+Reading NA23R,TA63M,FA100M,RA168D;
+Reading TA62A,EA124V,IA167S,EA222I;
+Reading VA12A,DA21E,NA39R,TA43M,LA53S,LA60I,SA72P,GA104S,KA126V,LA137A,YA151F,DA155V,LA178V,LA195T,PA211S;
+Reading FA46V,IA47R,DA103R,NA135M,EA142N,YA143A,NA185F,TA225I;
+Reading EA6V,VA11K,GA20E,PA54A,MA88T,TA105F,NA144G,NA146A,NA159R,AA179E,GA228V;
+Reading LA7C,NA23A,KA45T,SA202P;
+Reading NA23D,KA41W,TA43Q,DA102H,DA117L,VA120S,DA133S,DA155M,VA176K,PA192L,LA201I,PA211S;
+Reading EA17V,FA46M,GA51V,NA159R,QA184P;
+Reading DA21E,DA36T,PA196N,YA200R,KA209G;
+Reading TA9A,TA38N,KA41S,TA43S,PA58A,DA102G,TA186R;
+Reading TA62I;
+Reading VA22K,EA32A,CA48S,SA86V,FA100R,KA101V,DA129L,VA176G,LA178V;
+Reading YA74S,VA93K,GA104R,TA108C,IA161N,AA163I,LA221A,FA223M,GA232T;
+Reading YA74T,EA172A,AA226T;
+Reading TA43M,TA59S,LA60I,PA75A,FA165L,AA179G,DA180L,YA200Q;
+Reading KA126S,QA157V,AA227R;
+Reading PA75S;
+Reading IA47Y;
+Reading KA3S,IA14R,FA46A,FA83H,DA117S,LA125T,KA126R,KA166S,DA190S;
+Reading CA70R,AA87K;
+Residue to Mutate LYSA26 has residue index 24
+Residue to Mutate GLNA94 has residue index 92
+Residue to Mutate PROA211 has residue index 209
+Residue to Mutate GLUA222 has residue index 220
+Residue to Mutate TRPA57 has residue index 55
+Residue to Mutate LYSA113 has residue index 111
+Residue to Mutate THRA108 has residue index 106
+Residue to Mutate GLUA172 has residue index 170
+Residue to Mutate LEUA64 has residue index 62
+Residue to Mutate VALA68 has residue index 66
+Residue to Mutate PROA192 has residue index 190
+Residue to Mutate VALA22 has residue index 20
+Residue to Mutate HISA25 has residue index 23
+Residue to Mutate THRA49 has residue index 47
+Residue to Mutate VALA55 has residue index 53
+Residue to Mutate ARGA80 has residue index 78
+Residue to Mutate ASPA102 has residue index 100
+Residue to Mutate GLNA157 has residue index 155
+Residue to Mutate VALA219 has residue index 217
+Residue to Mutate ALAA37 has residue index 35
+Residue to Mutate LEUA42 has residue index 40
+Residue to Mutate ASPA82 has residue index 80
+Residue to Mutate GLUA90 has residue index 88
+Residue to Mutate TYRA106 has residue index 104
+Residue to Mutate LEUA125 has residue index 123
+Residue to Mutate ASNA146 has residue index 144
+Residue to Mutate ASNA164 has residue index 162
+Residue to Mutate LEUA201 has residue index 199
+Residue to Mutate LEUA221 has residue index 219
+Residue to Mutate THRA230 has residue index 228
+Residue to Mutate HISA231 has residue index 229
+Residue to Mutate ASPA103 has residue index 101
+Residue to Mutate ALAA154 has residue index 152
+Residue to Mutate VALA68 has residue index 66
+Residue to Mutate ASPA103 has residue index 101
+Residue to Mutate LYSA107 has residue index 105
+Residue to Mutate LYSA113 has residue index 111
+Residue to Mutate LYSA214 has residue index 212
+Residue to Mutate PHEA46 has residue index 44
+Residue to Mutate LYSA107 has residue index 105
+Residue to Mutate GLYA189 has residue index 187
+Residue to Mutate ASPA216 has residue index 214
+Residue to Mutate GLYA10 has residue index 8
+Residue to Mutate ASNA39 has residue index 37
+Residue to Mutate HISA169 has residue index 167
+Residue to Mutate GLUA17 has residue index 15
+Residue to Mutate HISA25 has residue index 23
+Residue to Mutate TYRA74 has residue index 72
+Residue to Mutate PROA192 has residue index 190
+Residue to Mutate PROA196 has residue index 194
+Residue to Mutate ALAA227 has residue index 225
+Residue to Mutate LEUA178 has residue index 176
+Residue to Mutate THRA38 has residue index 36
+Residue to Mutate LEUA42 has residue index 40
+Residue to Mutate LEUA201 has residue index 199
+Residue to Mutate PROA89 has residue index 87
+Residue to Mutate LYSA126 has residue index 124
+Residue to Mutate HISA139 has residue index 137
+Residue to Mutate SERA147 has residue index 145
+Residue to Mutate TYRA151 has residue index 149
+Residue to Mutate ASNA185 has residue index 183
+Residue to Mutate LYSA209 has residue index 207
+Residue to Mutate HISA231 has residue index 229
+Residue to Mutate ILEA14 has residue index 12
+Residue to Mutate CYSA48 has residue index 46
+Residue to Mutate ASPA76 has residue index 74
+Residue to Mutate ASPA133 has residue index 131
+Residue to Mutate ASNA144 has residue index 142
+Residue to Mutate ASNA146 has residue index 144
+Residue to Mutate ASNA149 has residue index 147
+Residue to Mutate PHEA165 has residue index 163
+Residue to Mutate ASPA173 has residue index 171
+Residue to Mutate GLYA191 has residue index 189
+Residue to Mutate LYSA209 has residue index 207
+Residue to Mutate GLYA4 has residue index 2
+Residue to Mutate THRA9 has residue index 7
+Residue to Mutate GLUA34 has residue index 32
+Residue to Mutate THRA49 has residue index 47
+Residue to Mutate PHEA83 has residue index 81
+Residue to Mutate ARGA96 has residue index 94
+Residue to Mutate ARGA109 has residue index 107
+Residue to Mutate LYSA131 has residue index 129
+Residue to Mutate ASNA212 has residue index 210
+Residue to Mutate HISA231 has residue index 229
+Residue to Mutate GLYA33 has residue index 31
+Residue to Mutate META88 has residue index 86
+Residue to Mutate VALA93 has residue index 91
+Residue to Mutate ARGA122 has residue index 120
+Residue to Mutate HISA148 has residue index 146
+Residue to Mutate ASNA149 has residue index 147
+Residue to Mutate LEUA201 has residue index 199
+Residue to Mutate LEUA207 has residue index 205
+Residue to Mutate PHEA8 has residue index 6
+Residue to Mutate LYSA45 has residue index 43
+Residue to Mutate THRA50 has residue index 48
+Residue to Mutate PROA75 has residue index 73
+Residue to Mutate SERA86 has residue index 84
+Residue to Mutate GLYA127 has residue index 125
+Residue to Mutate SERA147 has residue index 145
+Residue to Mutate ASPA173 has residue index 171
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate GLYA10 has residue index 8
+Residue to Mutate GLYA20 has residue index 18
+Residue to Mutate SERA72 has residue index 70
+Residue to Mutate ARGA80 has residue index 78
+Residue to Mutate GLUA111 has residue index 109
+Residue to Mutate GLYA134 has residue index 132
+Residue to Mutate ALAA154 has residue index 152
+Residue to Mutate ARGA168 has residue index 166
+Residue to Mutate GLUA172 has residue index 170
+Residue to Mutate THRA38 has residue index 36
+Residue to Mutate ASPA82 has residue index 80
+Residue to Mutate VALA16 has residue index 14
+Residue to Mutate ASPA19 has residue index 17
+Residue to Mutate HISA25 has residue index 23
+Residue to Mutate SERA28 has residue index 26
+Residue to Mutate GLYA33 has residue index 31
+Residue to Mutate LEUA42 has residue index 40
+Residue to Mutate LEUA60 has residue index 58
+Residue to Mutate LYSA85 has residue index 83
+Residue to Mutate SERA86 has residue index 84
+Residue to Mutate ALAA87 has residue index 85
+Residue to Mutate SERA99 has residue index 97
+Residue to Mutate ASPA117 has residue index 115
+Residue to Mutate ASNA135 has residue index 133
+Residue to Mutate HISA139 has residue index 137
+Residue to Mutate GLUA142 has residue index 140
+Residue to Mutate ILEA152 has residue index 150
+Residue to Mutate ASNA159 has residue index 157
+Residue to Mutate ASNA164 has residue index 162
+Residue to Mutate SERA175 has residue index 173
+Residue to Mutate GLNA177 has residue index 175
+Residue to Mutate GLNA183 has residue index 181
+Residue to Mutate PROA187 has residue index 185
+Residue to Mutate ILEA188 has residue index 186
+Residue to Mutate GLNA204 has residue index 202
+Residue to Mutate VALA61 has residue index 59
+Residue to Mutate HISA81 has residue index 79
+Residue to Mutate ILEA98 has residue index 96
+Residue to Mutate LEUA137 has residue index 135
+Residue to Mutate GLUA172 has residue index 170
+Residue to Mutate ASPA180 has residue index 178
+Residue to Mutate SERA202 has residue index 200
+Residue to Mutate THRA225 has residue index 223
+Residue to Mutate THRA38 has residue index 36
+Residue to Mutate LEUA44 has residue index 42
+Residue to Mutate THRA63 has residue index 61
+Residue to Mutate TYRA74 has residue index 72
+Residue to Mutate PHEA83 has residue index 81
+Residue to Mutate META88 has residue index 86
+Residue to Mutate GLYA160 has residue index 158
+Residue to Mutate SERA175 has residue index 173
+Residue to Mutate GLNA183 has residue index 181
+Residue to Mutate LEUA194 has residue index 192
+Residue to Mutate GLNA204 has residue index 202
+Residue to Mutate SERA208 has residue index 206
+Residue to Mutate ASNA212 has residue index 210
+Residue to Mutate ASPA216 has residue index 214
+Residue to Mutate LEUA15 has residue index 13
+Residue to Mutate LYSA45 has residue index 43
+Residue to Mutate LYSA79 has residue index 77
+Residue to Mutate ALAA110 has residue index 108
+Residue to Mutate VALA112 has residue index 110
+Residue to Mutate ASPA117 has residue index 115
+Residue to Mutate GLYA127 has residue index 125
+Residue to Mutate HISA139 has residue index 137
+Residue to Mutate ALAA163 has residue index 161
+Residue to Mutate ILEA167 has residue index 165
+Residue to Mutate LEUA194 has residue index 192
+Residue to Mutate ASNA198 has residue index 196
+Residue to Mutate THRA203 has residue index 201
+Residue to Mutate LEUA207 has residue index 205
+Residue to Mutate PROA192 has residue index 190
+Residue to Mutate SERA28 has residue index 26
+Residue to Mutate VALA29 has residue index 27
+Residue to Mutate ASNA39 has residue index 37
+Residue to Mutate LEUA44 has residue index 42
+Residue to Mutate LYSA113 has residue index 111
+Residue to Mutate ASNA144 has residue index 142
+Residue to Mutate PHEA165 has residue index 163
+Residue to Mutate VALA61 has residue index 59
+Residue to Mutate VALA11 has residue index 9
+Residue to Mutate VALA55 has residue index 53
+Residue to Mutate THRA63 has residue index 61
+Residue to Mutate GLUA111 has residue index 109
+Residue to Mutate ASPA129 has residue index 127
+Residue to Mutate ILEA136 has residue index 134
+Residue to Mutate LYSA140 has residue index 138
+Residue to Mutate SERA147 has residue index 145
+Residue to Mutate GLUA172 has residue index 170
+Residue to Mutate ARGA109 has residue index 107
+Residue to Mutate GLYA51 has residue index 49
+Residue to Mutate ASNA23 has residue index 21
+Residue to Mutate THRA63 has residue index 61
+Residue to Mutate PHEA100 has residue index 98
+Residue to Mutate ARGA168 has residue index 166
+Residue to Mutate THRA62 has residue index 60
+Residue to Mutate GLUA124 has residue index 122
+Residue to Mutate ILEA167 has residue index 165
+Residue to Mutate GLUA222 has residue index 220
+Residue to Mutate VALA12 has residue index 10
+Residue to Mutate ASPA21 has residue index 19
+Residue to Mutate ASNA39 has residue index 37
+Residue to Mutate THRA43 has residue index 41
+Residue to Mutate LEUA53 has residue index 51
+Residue to Mutate LEUA60 has residue index 58
+Residue to Mutate SERA72 has residue index 70
+Residue to Mutate GLYA104 has residue index 102
+Residue to Mutate LYSA126 has residue index 124
+Residue to Mutate LEUA137 has residue index 135
+Residue to Mutate TYRA151 has residue index 149
+Residue to Mutate ASPA155 has residue index 153
+Residue to Mutate LEUA178 has residue index 176
+Residue to Mutate LEUA195 has residue index 193
+Residue to Mutate PROA211 has residue index 209
+Residue to Mutate PHEA46 has residue index 44
+Residue to Mutate ILEA47 has residue index 45
+Residue to Mutate ASPA103 has residue index 101
+Residue to Mutate ASNA135 has residue index 133
+Residue to Mutate GLUA142 has residue index 140
+Residue to Mutate TYRA143 has residue index 141
+Residue to Mutate ASNA185 has residue index 183
+Residue to Mutate THRA225 has residue index 223
+Residue to Mutate GLUA6 has residue index 4
+Residue to Mutate VALA11 has residue index 9
+Residue to Mutate GLYA20 has residue index 18
+Residue to Mutate PROA54 has residue index 52
+Residue to Mutate META88 has residue index 86
+Residue to Mutate THRA105 has residue index 103
+Residue to Mutate ASNA144 has residue index 142
+Residue to Mutate ASNA146 has residue index 144
+Residue to Mutate ASNA159 has residue index 157
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate GLYA228 has residue index 226
+Residue to Mutate LEUA7 has residue index 5
+Residue to Mutate ASNA23 has residue index 21
+Residue to Mutate LYSA45 has residue index 43
+Residue to Mutate SERA202 has residue index 200
+Residue to Mutate ASNA23 has residue index 21
+Residue to Mutate LYSA41 has residue index 39
+Residue to Mutate THRA43 has residue index 41
+Residue to Mutate ASPA102 has residue index 100
+Residue to Mutate ASPA117 has residue index 115
+Residue to Mutate VALA120 has residue index 118
+Residue to Mutate ASPA133 has residue index 131
+Residue to Mutate ASPA155 has residue index 153
+Residue to Mutate VALA176 has residue index 174
+Residue to Mutate PROA192 has residue index 190
+Residue to Mutate LEUA201 has residue index 199
+Residue to Mutate PROA211 has residue index 209
+Residue to Mutate GLUA17 has residue index 15
+Residue to Mutate PHEA46 has residue index 44
+Residue to Mutate GLYA51 has residue index 49
+Residue to Mutate ASNA159 has residue index 157
+Residue to Mutate GLNA184 has residue index 182
+Residue to Mutate ASPA21 has residue index 19
+Residue to Mutate ASPA36 has residue index 34
+Residue to Mutate PROA196 has residue index 194
+Residue to Mutate TYRA200 has residue index 198
+Residue to Mutate LYSA209 has residue index 207
+Residue to Mutate THRA9 has residue index 7
+Residue to Mutate THRA38 has residue index 36
+Residue to Mutate LYSA41 has residue index 39
+Residue to Mutate THRA43 has residue index 41
+Residue to Mutate PROA58 has residue index 56
+Residue to Mutate ASPA102 has residue index 100
+Residue to Mutate THRA186 has residue index 184
+Residue to Mutate THRA62 has residue index 60
+Residue to Mutate VALA22 has residue index 20
+Residue to Mutate GLUA32 has residue index 30
+Residue to Mutate CYSA48 has residue index 46
+Residue to Mutate SERA86 has residue index 84
+Residue to Mutate PHEA100 has residue index 98
+Residue to Mutate LYSA101 has residue index 99
+Residue to Mutate ASPA129 has residue index 127
+Residue to Mutate VALA176 has residue index 174
+Residue to Mutate LEUA178 has residue index 176
+Residue to Mutate TYRA74 has residue index 72
+Residue to Mutate VALA93 has residue index 91
+Residue to Mutate GLYA104 has residue index 102
+Residue to Mutate THRA108 has residue index 106
+Residue to Mutate ILEA161 has residue index 159
+Residue to Mutate ALAA163 has residue index 161
+Residue to Mutate LEUA221 has residue index 219
+Residue to Mutate PHEA223 has residue index 221
+Residue to Mutate GLYA232 has residue index 230
+Residue to Mutate TYRA74 has residue index 72
+Residue to Mutate GLUA172 has residue index 170
+Residue to Mutate ALAA226 has residue index 224
+Residue to Mutate THRA43 has residue index 41
+Residue to Mutate THRA59 has residue index 57
+Residue to Mutate LEUA60 has residue index 58
+Residue to Mutate PROA75 has residue index 73
+Residue to Mutate PHEA165 has residue index 163
+Residue to Mutate ALAA179 has residue index 177
+Residue to Mutate ASPA180 has residue index 178
+Residue to Mutate TYRA200 has residue index 198
+Residue to Mutate LYSA126 has residue index 124
+Residue to Mutate GLNA157 has residue index 155
+Residue to Mutate ALAA227 has residue index 225
+Residue to Mutate PROA75 has residue index 73
+Residue to Mutate ILEA47 has residue index 45
+Residue to Mutate LYSA3 has residue index 1
+Residue to Mutate ILEA14 has residue index 12
+Residue to Mutate PHEA46 has residue index 44
+Residue to Mutate PHEA83 has residue index 81
+Residue to Mutate ASPA117 has residue index 115
+Residue to Mutate LEUA125 has residue index 123
+Residue to Mutate LYSA126 has residue index 124
+Residue to Mutate LYSA166 has residue index 164
+Residue to Mutate ASPA190 has residue index 188
+Residue to Mutate CYSA70 has residue index 68
+Residue to Mutate ALAA87 has residue index 85
+Mutating residue = LYSA26 into ILE
+Mutating residue = GLNA94 into ALA
+Mutating residue = GLUA222 into PRO
+Mutating residue = PROA211 into ASP
+Mutating residue = LYSA26 into ILE
+Mutating residue = GLNA94 into ALA
+Mutating residue = GLUA222 into PRO
+Mutating residue = PROA211 into ASP
+Mutating residue = LYSA26 into ILE
+Mutating residue = GLNA94 into ALA
+Mutating residue = GLUA222 into PRO
+Mutating residue = PROA211 into ASP
+Mutating residue = LYSA26 into ILE
+Mutating residue = GLNA94 into ALA
+Mutating residue = GLUA222 into PRO
+Mutating residue = PROA211 into ASP
+Mutating residue = LYSA26 into ILE
+Mutating residue = GLNA94 into ALA
+Mutating residue = GLUA222 into PRO
+Mutating residue = PROA211 into ASP
+Mutating residue = TRPA57 into ALA
+Mutating residue = LYSA113 into CYS
+Mutating residue = TRPA57 into ALA
+Mutating residue = LYSA113 into CYS
+Mutating residue = TRPA57 into ALA
+Mutating residue = LYSA113 into CYS
+Mutating residue = TRPA57 into ALA
+Mutating residue = LYSA113 into CYS
+Mutating residue = TRPA57 into ALA
+Mutating residue = LYSA113 into CYS
+Mutating residue = THRA108 into LEU
+Mutating residue = GLUA172 into HIS
+Mutating residue = THRA108 into LEU
+Mutating residue = GLUA172 into HIS
+Mutating residue = THRA108 into LEU
+Mutating residue = GLUA172 into HIS
+Mutating residue = THRA108 into LEU
+Mutating residue = GLUA172 into HIS
+Mutating residue = THRA108 into LEU
+Mutating residue = GLUA172 into HIS
+Mutating residue = LEUA64 into ALA
+Mutating residue = VALA68 into LYS
+Mutating residue = PROA192 into MET
+Mutating residue = LEUA64 into ALA
+Mutating residue = VALA68 into LYS
+Mutating residue = PROA192 into MET
+Mutating residue = LEUA64 into ALA
+Mutating residue = VALA68 into LYS
+Mutating residue = PROA192 into MET
+Mutating residue = LEUA64 into ALA
+Mutating residue = VALA68 into LYS
+Mutating residue = PROA192 into MET
+Mutating residue = LEUA64 into ALA
+Mutating residue = VALA68 into LYS
+Mutating residue = PROA192 into MET
+Mutating residue = VALA22 into CYS
+Mutating residue = THRA49 into ILE
+Mutating residue = ARGA80 into LEU
+Mutating residue = ASPA102 into GLY
+Mutating residue = GLNA157 into GLY
+Mutating residue = H2SA25 into GLU
+Mutating residue = VALA55 into SER
+Mutating residue = VALA219 into MET
+Mutating residue = VALA22 into CYS
+Mutating residue = THRA49 into ILE
+Mutating residue = ARGA80 into LEU
+Mutating residue = ASPA102 into GLY
+Mutating residue = GLNA157 into GLY
+Mutating residue = H2SA25 into GLU
+Mutating residue = VALA55 into SER
+Mutating residue = VALA219 into MET
+Mutating residue = VALA22 into CYS
+Mutating residue = THRA49 into ILE
+Mutating residue = ARGA80 into LEU
+Mutating residue = ASPA102 into GLY
+Mutating residue = GLNA157 into GLY
+Mutating residue = H2SA25 into GLU
+Mutating residue = VALA55 into SER
+Mutating residue = VALA219 into MET
+Mutating residue = VALA22 into CYS
+Mutating residue = THRA49 into ILE
+Mutating residue = ARGA80 into LEU
+Mutating residue = ASPA102 into GLY
+Mutating residue = GLNA157 into GLY
+Mutating residue = H2SA25 into GLU
+Mutating residue = VALA55 into SER
+Mutating residue = VALA219 into MET
+Mutating residue = VALA22 into CYS
+Mutating residue = THRA49 into ILE
+Mutating residue = ARGA80 into LEU
+Mutating residue = ASPA102 into GLY
+Mutating residue = GLNA157 into GLY
+Mutating residue = H2SA25 into GLU
+Mutating residue = VALA55 into SER
+Mutating residue = VALA219 into MET
+Mutating residue = ALAA37 into ILE
+Mutating residue = LEUA42 into ALA
+Mutating residue = ASPA82 into CYS
+Mutating residue = TYRA106 into VAL
+Mutating residue = LEUA125 into GLY
+Mutating residue = ASNA146 into ALA
+Mutating residue = ASNA164 into HIS
+Mutating residue = LEUA201 into ILE
+Mutating residue = LEUA221 into VAL
+Mutating residue = THRA230 into PRO
+Mutating residue = H1SA231 into VAL
+Mutating residue = GLUA90 into ARG
+Mutating residue = ALAA37 into ILE
+Mutating residue = LEUA42 into ALA
+Mutating residue = ASPA82 into CYS
+Mutating residue = TYRA106 into VAL
+Mutating residue = LEUA125 into GLY
+Mutating residue = ASNA146 into ALA
+Mutating residue = ASNA164 into HIS
+Mutating residue = LEUA201 into ILE
+Mutating residue = LEUA221 into VAL
+Mutating residue = THRA230 into PRO
+Mutating residue = H1SA231 into VAL
+Mutating residue = GLUA90 into ARG
+Mutating residue = ALAA37 into ILE
+Mutating residue = LEUA42 into ALA
+Mutating residue = ASPA82 into CYS
+Mutating residue = TYRA106 into VAL
+Mutating residue = LEUA125 into GLY
+Mutating residue = ASNA146 into ALA
+Mutating residue = ASNA164 into HIS
+Mutating residue = LEUA201 into ILE
+Mutating residue = LEUA221 into VAL
+Mutating residue = THRA230 into PRO
+Mutating residue = H1SA231 into VAL
+Mutating residue = GLUA90 into ARG
+Mutating residue = ALAA37 into ILE
+Mutating residue = LEUA42 into ALA
+Mutating residue = ASPA82 into CYS
+Mutating residue = TYRA106 into VAL
+Mutating residue = LEUA125 into GLY
+Mutating residue = ASNA146 into ALA
+Mutating residue = ASNA164 into HIS
+Mutating residue = LEUA201 into ILE
+Mutating residue = LEUA221 into VAL
+Mutating residue = THRA230 into PRO
+Mutating residue = H1SA231 into VAL
+Mutating residue = GLUA90 into ARG
+Mutating residue = ALAA37 into ILE
+Mutating residue = LEUA42 into ALA
+Mutating residue = ASPA82 into CYS
+Mutating residue = TYRA106 into VAL
+Mutating residue = LEUA125 into GLY
+Mutating residue = ASNA146 into ALA
+Mutating residue = ASNA164 into HIS
+Mutating residue = LEUA201 into ILE
+Mutating residue = LEUA221 into VAL
+Mutating residue = THRA230 into PRO
+Mutating residue = H1SA231 into VAL
+Mutating residue = GLUA90 into ARG
+Mutating residue = ASPA103 into CYS
+Mutating residue = ALAA154 into VAL
+Mutating residue = ASPA103 into CYS
+Mutating residue = ALAA154 into VAL
+Mutating residue = ASPA103 into CYS
+Mutating residue = ALAA154 into VAL
+Mutating residue = ASPA103 into CYS
+Mutating residue = ALAA154 into VAL
+Mutating residue = ASPA103 into CYS
+Mutating residue = ALAA154 into VAL
+Mutating residue = LYSA107 into ALA
+Mutating residue = LYSA113 into HIS
+Mutating residue = LYSA214 into HIS
+Mutating residue = VALA68 into LYS
+Mutating residue = ASPA103 into ARG
+Mutating residue = LYSA107 into ALA
+Mutating residue = LYSA113 into HIS
+Mutating residue = LYSA214 into HIS
+Mutating residue = VALA68 into LYS
+Mutating residue = ASPA103 into ARG
+Mutating residue = LYSA107 into ALA
+Mutating residue = LYSA113 into HIS
+Mutating residue = LYSA214 into HIS
+Mutating residue = VALA68 into LYS
+Mutating residue = ASPA103 into ARG
+Mutating residue = LYSA107 into ALA
+Mutating residue = LYSA113 into HIS
+Mutating residue = LYSA214 into HIS
+Mutating residue = VALA68 into LYS
+Mutating residue = ASPA103 into ARG
+Mutating residue = LYSA107 into ALA
+Mutating residue = LYSA113 into HIS
+Mutating residue = LYSA214 into HIS
+Mutating residue = VALA68 into LYS
+Mutating residue = ASPA103 into ARG
+Mutating residue = PHEA46 into VAL
+Mutating residue = GLYA189 into TYR
+Mutating residue = LYSA107 into SER
+Mutating residue = ASPA216 into ASN
+Mutating residue = PHEA46 into VAL
+Mutating residue = GLYA189 into TYR
+Mutating residue = LYSA107 into SER
+Mutating residue = ASPA216 into ASN
+Mutating residue = PHEA46 into VAL
+Mutating residue = GLYA189 into TYR
+Mutating residue = LYSA107 into SER
+Mutating residue = ASPA216 into ASN
+Mutating residue = PHEA46 into VAL
+Mutating residue = GLYA189 into TYR
+Mutating residue = LYSA107 into SER
+Mutating residue = ASPA216 into ASN
+Mutating residue = PHEA46 into VAL
+Mutating residue = GLYA189 into TYR
+Mutating residue = LYSA107 into SER
+Mutating residue = ASPA216 into ASN
+Mutating residue = GLYA10 into ALA
+Mutating residue = ASNA39 into ALA
+Mutating residue = H2SA169 into THR
+Mutating residue = GLYA10 into ALA
+Mutating residue = ASNA39 into ALA
+Mutating residue = H2SA169 into THR
+Mutating residue = GLYA10 into ALA
+Mutating residue = ASNA39 into ALA
+Mutating residue = H2SA169 into THR
+Mutating residue = GLYA10 into ALA
+Mutating residue = ASNA39 into ALA
+Mutating residue = H2SA169 into THR
+Mutating residue = GLYA10 into ALA
+Mutating residue = ASNA39 into ALA
+Mutating residue = H2SA169 into THR
+Mutating residue = TYRA74 into HIS
+Mutating residue = PROA192 into LEU
+Mutating residue = PROA196 into GLY
+Mutating residue = GLUA17 into MET
+Mutating residue = H2SA25 into ASN
+Mutating residue = ALAA227 into ARG
+Mutating residue = TYRA74 into HIS
+Mutating residue = PROA192 into LEU
+Mutating residue = PROA196 into GLY
+Mutating residue = GLUA17 into MET
+Mutating residue = H2SA25 into ASN
+Mutating residue = ALAA227 into ARG
+Mutating residue = TYRA74 into HIS
+Mutating residue = PROA192 into LEU
+Mutating residue = PROA196 into GLY
+Mutating residue = GLUA17 into MET
+Mutating residue = H2SA25 into ASN
+Mutating residue = ALAA227 into ARG
+Mutating residue = TYRA74 into HIS
+Mutating residue = PROA192 into LEU
+Mutating residue = PROA196 into GLY
+Mutating residue = GLUA17 into MET
+Mutating residue = H2SA25 into ASN
+Mutating residue = ALAA227 into ARG
+Mutating residue = TYRA74 into HIS
+Mutating residue = PROA192 into LEU
+Mutating residue = PROA196 into GLY
+Mutating residue = GLUA17 into MET
+Mutating residue = H2SA25 into ASN
+Mutating residue = ALAA227 into ARG
+Mutating residue = LEUA178 into ASP
+Mutating residue = LEUA178 into ASP
+Mutating residue = LEUA178 into ASP
+Mutating residue = LEUA178 into ASP
+Mutating residue = LEUA178 into ASP
+Mutating residue = LEUA201 into VAL
+Mutating residue = THRA38 into ASN
+Mutating residue = LEUA42 into SER
+Mutating residue = LEUA201 into VAL
+Mutating residue = THRA38 into ASN
+Mutating residue = LEUA42 into SER
+Mutating residue = LEUA201 into VAL
+Mutating residue = THRA38 into ASN
+Mutating residue = LEUA42 into SER
+Mutating residue = LEUA201 into VAL
+Mutating residue = THRA38 into ASN
+Mutating residue = LEUA42 into SER
+Mutating residue = LEUA201 into VAL
+Mutating residue = THRA38 into ASN
+Mutating residue = LEUA42 into SER
+Mutating residue = TYRA151 into LEU
+Mutating residue = LYSA209 into TYR
+Mutating residue = H1SA231 into ALA
+Mutating residue = PROA89 into LYS
+Mutating residue = LYSA126 into SER
+Mutating residue = H2SA139 into GLU
+Mutating residue = SERA147 into GLN
+Mutating residue = ASNA185 into SER
+Mutating residue = TYRA151 into LEU
+Mutating residue = LYSA209 into TYR
+Mutating residue = H1SA231 into ALA
+Mutating residue = PROA89 into LYS
+Mutating residue = LYSA126 into SER
+Mutating residue = H2SA139 into GLU
+Mutating residue = SERA147 into GLN
+Mutating residue = ASNA185 into SER
+Mutating residue = TYRA151 into LEU
+Mutating residue = LYSA209 into TYR
+Mutating residue = H1SA231 into ALA
+Mutating residue = PROA89 into LYS
+Mutating residue = LYSA126 into SER
+Mutating residue = H2SA139 into GLU
+Mutating residue = SERA147 into GLN
+Mutating residue = ASNA185 into SER
+Mutating residue = TYRA151 into LEU
+Mutating residue = LYSA209 into TYR
+Mutating residue = H1SA231 into ALA
+Mutating residue = PROA89 into LYS
+Mutating residue = LYSA126 into SER
+Mutating residue = H2SA139 into GLU
+Mutating residue = SERA147 into GLN
+Mutating residue = ASNA185 into SER
+Mutating residue = TYRA151 into LEU
+Mutating residue = LYSA209 into TYR
+Mutating residue = H1SA231 into ALA
+Mutating residue = PROA89 into LYS
+Mutating residue = LYSA126 into SER
+Mutating residue = H2SA139 into GLU
+Mutating residue = SERA147 into GLN
+Mutating residue = ASNA185 into SER
+Mutating residue = CYSA48 into PRO
+Mutating residue = ASNA144 into CYS
+Mutating residue = ASNA149 into LEU
+Mutating residue = LYSA209 into GLY
+Mutating residue = ILEA14 into ARG
+Mutating residue = ASPA76 into GLN
+Mutating residue = ASPA133 into SER
+Mutating residue = ASNA146 into ASP
+Mutating residue = PHEA165 into GLN
+Mutating residue = ASPA173 into ARG
+Mutating residue = GLYA191 into ARG
+Mutating residue = CYSA48 into PRO
+Mutating residue = ASNA144 into CYS
+Mutating residue = ASNA149 into LEU
+Mutating residue = LYSA209 into GLY
+Mutating residue = ILEA14 into ARG
+Mutating residue = ASPA76 into GLN
+Mutating residue = ASPA133 into SER
+Mutating residue = ASNA146 into ASP
+Mutating residue = PHEA165 into GLN
+Mutating residue = ASPA173 into ARG
+Mutating residue = GLYA191 into ARG
+Mutating residue = CYSA48 into PRO
+Mutating residue = ASNA144 into CYS
+Mutating residue = ASNA149 into LEU
+Mutating residue = LYSA209 into GLY
+Mutating residue = ILEA14 into ARG
+Mutating residue = ASPA76 into GLN
+Mutating residue = ASPA133 into SER
+Mutating residue = ASNA146 into ASP
+Mutating residue = PHEA165 into GLN
+Mutating residue = ASPA173 into ARG
+Mutating residue = GLYA191 into ARG
+Mutating residue = CYSA48 into PRO
+Mutating residue = ASNA144 into CYS
+Mutating residue = ASNA149 into LEU
+Mutating residue = LYSA209 into GLY
+Mutating residue = ILEA14 into ARG
+Mutating residue = ASPA76 into GLN
+Mutating residue = ASPA133 into SER
+Mutating residue = ASNA146 into ASP
+Mutating residue = PHEA165 into GLN
+Mutating residue = ASPA173 into ARG
+Mutating residue = GLYA191 into ARG
+Mutating residue = CYSA48 into PRO
+Mutating residue = ASNA144 into CYS
+Mutating residue = ASNA149 into LEU
+Mutating residue = LYSA209 into GLY
+Mutating residue = ILEA14 into ARG
+Mutating residue = ASPA76 into GLN
+Mutating residue = ASPA133 into SER
+Mutating residue = ASNA146 into ASP
+Mutating residue = PHEA165 into GLN
+Mutating residue = ASPA173 into ARG
+Mutating residue = GLYA191 into ARG
+Mutating residue = THRA9 into TRP
+Mutating residue = THRA49 into ALA
+Mutating residue = PHEA83 into LEU
+Mutating residue = ARGA96 into PRO
+Mutating residue = ARGA109 into THR
+Mutating residue = H1SA231 into VAL
+Mutating residue = GLYA4 into ASP
+Mutating residue = GLUA34 into ASP
+Mutating residue = LYSA131 into GLN
+Mutating residue = ASNA212 into LYS
+Mutating residue = THRA9 into TRP
+Mutating residue = THRA49 into ALA
+Mutating residue = PHEA83 into LEU
+Mutating residue = ARGA96 into PRO
+Mutating residue = ARGA109 into THR
+Mutating residue = H1SA231 into VAL
+Mutating residue = GLYA4 into ASP
+Mutating residue = GLUA34 into ASP
+Mutating residue = LYSA131 into GLN
+Mutating residue = ASNA212 into LYS
+Mutating residue = THRA9 into TRP
+Mutating residue = THRA49 into ALA
+Mutating residue = PHEA83 into LEU
+Mutating residue = ARGA96 into PRO
+Mutating residue = ARGA109 into THR
+Mutating residue = H1SA231 into VAL
+Mutating residue = GLYA4 into ASP
+Mutating residue = GLUA34 into ASP
+Mutating residue = LYSA131 into GLN
+Mutating residue = ASNA212 into LYS
+Mutating residue = THRA9 into TRP
+Mutating residue = THRA49 into ALA
+Mutating residue = PHEA83 into LEU
+Mutating residue = ARGA96 into PRO
+Mutating residue = ARGA109 into THR
+Mutating residue = H1SA231 into VAL
+Mutating residue = GLYA4 into ASP
+Mutating residue = GLUA34 into ASP
+Mutating residue = LYSA131 into GLN
+Mutating residue = ASNA212 into LYS
+Mutating residue = THRA9 into TRP
+Mutating residue = THRA49 into ALA
+Mutating residue = PHEA83 into LEU
+Mutating residue = ARGA96 into PRO
+Mutating residue = ARGA109 into THR
+Mutating residue = H1SA231 into VAL
+Mutating residue = GLYA4 into ASP
+Mutating residue = GLUA34 into ASP
+Mutating residue = LYSA131 into GLN
+Mutating residue = ASNA212 into LYS
+Mutating residue = GLYA33 into THR
+Mutating residue = VALA93 into HIS
+Mutating residue = ARGA122 into PHE
+Mutating residue = H1SA148 into GLY
+Mutating residue = LEUA201 into VAL
+Mutating residue = LEUA207 into VAL
+Mutating residue = META88 into ARG
+Mutating residue = ASNA149 into SER
+Mutating residue = GLYA33 into THR
+Mutating residue = VALA93 into HIS
+Mutating residue = ARGA122 into PHE
+Mutating residue = H1SA148 into GLY
+Mutating residue = LEUA201 into VAL
+Mutating residue = LEUA207 into VAL
+Mutating residue = META88 into ARG
+Mutating residue = ASNA149 into SER
+Mutating residue = GLYA33 into THR
+Mutating residue = VALA93 into HIS
+Mutating residue = ARGA122 into PHE
+Mutating residue = H1SA148 into GLY
+Mutating residue = LEUA201 into VAL
+Mutating residue = LEUA207 into VAL
+Mutating residue = META88 into ARG
+Mutating residue = ASNA149 into SER
+Mutating residue = GLYA33 into THR
+Mutating residue = VALA93 into HIS
+Mutating residue = ARGA122 into PHE
+Mutating residue = H1SA148 into GLY
+Mutating residue = LEUA201 into VAL
+Mutating residue = LEUA207 into VAL
+Mutating residue = META88 into ARG
+Mutating residue = ASNA149 into SER
+Mutating residue = GLYA33 into THR
+Mutating residue = VALA93 into HIS
+Mutating residue = ARGA122 into PHE
+Mutating residue = H1SA148 into GLY
+Mutating residue = LEUA201 into VAL
+Mutating residue = LEUA207 into VAL
+Mutating residue = META88 into ARG
+Mutating residue = ASNA149 into SER
+Mutating residue = LYSA45 into HIS
+Mutating residue = THRA50 into ALA
+Mutating residue = PROA75 into ALA
+Mutating residue = SERA86 into GLY
+Mutating residue = GLYA127 into ALA
+Mutating residue = SERA147 into PRO
+Mutating residue = ASPA173 into ALA
+Mutating residue = ALAA179 into VAL
+Mutating residue = PHEA8 into ASN
+Mutating residue = LYSA45 into HIS
+Mutating residue = THRA50 into ALA
+Mutating residue = PROA75 into ALA
+Mutating residue = SERA86 into GLY
+Mutating residue = GLYA127 into ALA
+Mutating residue = SERA147 into PRO
+Mutating residue = ASPA173 into ALA
+Mutating residue = ALAA179 into VAL
+Mutating residue = PHEA8 into ASN
+Mutating residue = LYSA45 into HIS
+Mutating residue = THRA50 into ALA
+Mutating residue = PROA75 into ALA
+Mutating residue = SERA86 into GLY
+Mutating residue = GLYA127 into ALA
+Mutating residue = SERA147 into PRO
+Mutating residue = ASPA173 into ALA
+Mutating residue = ALAA179 into VAL
+Mutating residue = PHEA8 into ASN
+Mutating residue = LYSA45 into HIS
+Mutating residue = THRA50 into ALA
+Mutating residue = PROA75 into ALA
+Mutating residue = SERA86 into GLY
+Mutating residue = GLYA127 into ALA
+Mutating residue = SERA147 into PRO
+Mutating residue = ASPA173 into ALA
+Mutating residue = ALAA179 into VAL
+Mutating residue = PHEA8 into ASN
+Mutating residue = LYSA45 into HIS
+Mutating residue = THRA50 into ALA
+Mutating residue = PROA75 into ALA
+Mutating residue = SERA86 into GLY
+Mutating residue = GLYA127 into ALA
+Mutating residue = SERA147 into PRO
+Mutating residue = ASPA173 into ALA
+Mutating residue = ALAA179 into VAL
+Mutating residue = PHEA8 into ASN
+Mutating residue = SERA72 into TYR
+Mutating residue = ARGA80 into LEU
+Mutating residue = ARGA168 into PRO
+Mutating residue = GLUA172 into GLY
+Mutating residue = GLYA10 into MET
+Mutating residue = GLYA20 into ASN
+Mutating residue = GLUA111 into SER
+Mutating residue = GLYA134 into ASP
+Mutating residue = ALAA154 into ASN
+Mutating residue = SERA72 into TYR
+Mutating residue = ARGA80 into LEU
+Mutating residue = ARGA168 into PRO
+Mutating residue = GLUA172 into GLY
+Mutating residue = GLYA10 into MET
+Mutating residue = GLYA20 into ASN
+Mutating residue = GLUA111 into SER
+Mutating residue = GLYA134 into ASP
+Mutating residue = ALAA154 into ASN
+Mutating residue = SERA72 into TYR
+Mutating residue = ARGA80 into LEU
+Mutating residue = ARGA168 into PRO
+Mutating residue = GLUA172 into GLY
+Mutating residue = GLYA10 into MET
+Mutating residue = GLYA20 into ASN
+Mutating residue = GLUA111 into SER
+Mutating residue = GLYA134 into ASP
+Mutating residue = ALAA154 into ASN
+Mutating residue = SERA72 into TYR
+Mutating residue = ARGA80 into LEU
+Mutating residue = ARGA168 into PRO
+Mutating residue = GLUA172 into GLY
+Mutating residue = GLYA10 into MET
+Mutating residue = GLYA20 into ASN
+Mutating residue = GLUA111 into SER
+Mutating residue = GLYA134 into ASP
+Mutating residue = ALAA154 into ASN
+Mutating residue = SERA72 into TYR
+Mutating residue = ARGA80 into LEU
+Mutating residue = ARGA168 into PRO
+Mutating residue = GLUA172 into GLY
+Mutating residue = GLYA10 into MET
+Mutating residue = GLYA20 into ASN
+Mutating residue = GLUA111 into SER
+Mutating residue = GLYA134 into ASP
+Mutating residue = ALAA154 into ASN
+Mutating residue = ASPA82 into ILE
+Mutating residue = THRA38 into SER
+Mutating residue = ASPA82 into ILE
+Mutating residue = THRA38 into SER
+Mutating residue = ASPA82 into ILE
+Mutating residue = THRA38 into SER
+Mutating residue = ASPA82 into ILE
+Mutating residue = THRA38 into SER
+Mutating residue = ASPA82 into ILE
+Mutating residue = THRA38 into SER
+Mutating residue = ASPA19 into ALA
+Mutating residue = H2SA25 into LEU
+Mutating residue = GLYA33 into VAL
+Mutating residue = LEUA42 into ILE
+Mutating residue = LEUA60 into ILE
+Mutating residue = LYSA85 into ALA
+Mutating residue = SERA86 into THR
+Mutating residue = SERA99 into ILE
+Mutating residue = ASPA117 into PRO
+Mutating residue = GLUA142 into CYS
+Mutating residue = ILEA152 into ALA
+Mutating residue = ASNA159 into CYS
+Mutating residue = ASNA164 into HIS
+Mutating residue = SERA175 into ALA
+Mutating residue = GLNA177 into HIS
+Mutating residue = GLNA183 into TYR
+Mutating residue = PROA187 into LEU
+Mutating residue = ILEA188 into ALA
+Mutating residue = GLNA204 into TYR
+Mutating residue = VALA16 into ASP
+Mutating residue = SERA28 into GLN
+Mutating residue = ALAA87 into ARG
+Mutating residue = ASNA135 into SER
+Mutating residue = H2SA139 into ASN
+Mutating residue = ASPA19 into ALA
+Mutating residue = H2SA25 into LEU
+Mutating residue = GLYA33 into VAL
+Mutating residue = LEUA42 into ILE
+Mutating residue = LEUA60 into ILE
+Mutating residue = LYSA85 into ALA
+Mutating residue = SERA86 into THR
+Mutating residue = SERA99 into ILE
+Mutating residue = ASPA117 into PRO
+Mutating residue = GLUA142 into CYS
+Mutating residue = ILEA152 into ALA
+Mutating residue = ASNA159 into CYS
+Mutating residue = ASNA164 into HIS
+Mutating residue = SERA175 into ALA
+Mutating residue = GLNA177 into HIS
+Mutating residue = GLNA183 into TYR
+Mutating residue = PROA187 into LEU
+Mutating residue = ILEA188 into ALA
+Mutating residue = GLNA204 into TYR
+Mutating residue = VALA16 into ASP
+Mutating residue = SERA28 into GLN
+Mutating residue = ALAA87 into ARG
+Mutating residue = ASNA135 into SER
+Mutating residue = H2SA139 into ASN
+Mutating residue = ASPA19 into ALA
+Mutating residue = H2SA25 into LEU
+Mutating residue = GLYA33 into VAL
+Mutating residue = LEUA42 into ILE
+Mutating residue = LEUA60 into ILE
+Mutating residue = LYSA85 into ALA
+Mutating residue = SERA86 into THR
+Mutating residue = SERA99 into ILE
+Mutating residue = ASPA117 into PRO
+Mutating residue = GLUA142 into CYS
+Mutating residue = ILEA152 into ALA
+Mutating residue = ASNA159 into CYS
+Mutating residue = ASNA164 into HIS
+Mutating residue = SERA175 into ALA
+Mutating residue = GLNA177 into HIS
+Mutating residue = GLNA183 into TYR
+Mutating residue = PROA187 into LEU
+Mutating residue = ILEA188 into ALA
+Mutating residue = GLNA204 into TYR
+Mutating residue = VALA16 into ASP
+Mutating residue = SERA28 into GLN
+Mutating residue = ALAA87 into ARG
+Mutating residue = ASNA135 into SER
+Mutating residue = H2SA139 into ASN
+Mutating residue = ASPA19 into ALA
+Mutating residue = H2SA25 into LEU
+Mutating residue = GLYA33 into VAL
+Mutating residue = LEUA42 into ILE
+Mutating residue = LEUA60 into ILE
+Mutating residue = LYSA85 into ALA
+Mutating residue = SERA86 into THR
+Mutating residue = SERA99 into ILE
+Mutating residue = ASPA117 into PRO
+Mutating residue = GLUA142 into CYS
+Mutating residue = ILEA152 into ALA
+Mutating residue = ASNA159 into CYS
+Mutating residue = ASNA164 into HIS
+Mutating residue = SERA175 into ALA
+Mutating residue = GLNA177 into HIS
+Mutating residue = GLNA183 into TYR
+Mutating residue = PROA187 into LEU
+Mutating residue = ILEA188 into ALA
+Mutating residue = GLNA204 into TYR
+Mutating residue = VALA16 into ASP
+Mutating residue = SERA28 into GLN
+Mutating residue = ALAA87 into ARG
+Mutating residue = ASNA135 into SER
+Mutating residue = H2SA139 into ASN
+Mutating residue = ASPA19 into ALA
+Mutating residue = H2SA25 into LEU
+Mutating residue = GLYA33 into VAL
+Mutating residue = LEUA42 into ILE
+Mutating residue = LEUA60 into ILE
+Mutating residue = LYSA85 into ALA
+Mutating residue = SERA86 into THR
+Mutating residue = SERA99 into ILE
+Mutating residue = ASPA117 into PRO
+Mutating residue = GLUA142 into CYS
+Mutating residue = ILEA152 into ALA
+Mutating residue = ASNA159 into CYS
+Mutating residue = ASNA164 into HIS
+Mutating residue = SERA175 into ALA
+Mutating residue = GLNA177 into HIS
+Mutating residue = GLNA183 into TYR
+Mutating residue = PROA187 into LEU
+Mutating residue = ILEA188 into ALA
+Mutating residue = GLNA204 into TYR
+Mutating residue = VALA16 into ASP
+Mutating residue = SERA28 into GLN
+Mutating residue = ALAA87 into ARG
+Mutating residue = ASNA135 into SER
+Mutating residue = H2SA139 into ASN
+Mutating residue = VALA61 into ILE
+Mutating residue = H2SA81 into GLY
+Mutating residue = ILEA98 into THR
+Mutating residue = LEUA137 into VAL
+Mutating residue = GLUA172 into HIS
+Mutating residue = ASPA180 into CYS
+Mutating residue = SERA202 into ASN
+Mutating residue = THRA225 into ASP
+Mutating residue = VALA61 into ILE
+Mutating residue = H2SA81 into GLY
+Mutating residue = ILEA98 into THR
+Mutating residue = LEUA137 into VAL
+Mutating residue = GLUA172 into HIS
+Mutating residue = ASPA180 into CYS
+Mutating residue = SERA202 into ASN
+Mutating residue = THRA225 into ASP
+Mutating residue = VALA61 into ILE
+Mutating residue = H2SA81 into GLY
+Mutating residue = ILEA98 into THR
+Mutating residue = LEUA137 into VAL
+Mutating residue = GLUA172 into HIS
+Mutating residue = ASPA180 into CYS
+Mutating residue = SERA202 into ASN
+Mutating residue = THRA225 into ASP
+Mutating residue = VALA61 into ILE
+Mutating residue = H2SA81 into GLY
+Mutating residue = ILEA98 into THR
+Mutating residue = LEUA137 into VAL
+Mutating residue = GLUA172 into HIS
+Mutating residue = ASPA180 into CYS
+Mutating residue = SERA202 into ASN
+Mutating residue = THRA225 into ASP
+Mutating residue = VALA61 into ILE
+Mutating residue = H2SA81 into GLY
+Mutating residue = ILEA98 into THR
+Mutating residue = LEUA137 into VAL
+Mutating residue = GLUA172 into HIS
+Mutating residue = ASPA180 into CYS
+Mutating residue = SERA202 into ASN
+Mutating residue = THRA225 into ASP
+Mutating residue = LEUA44 into GLY
+Mutating residue = THRA63 into VAL
+Mutating residue = TYRA74 into ALA
+Mutating residue = PHEA83 into LEU
+Mutating residue = META88 into HIS
+Mutating residue = GLYA160 into THR
+Mutating residue = GLNA183 into LEU
+Mutating residue = LEUA194 into ALA
+Mutating residue = GLNA204 into ALA
+Mutating residue = ASNA212 into GLY
+Mutating residue = THRA38 into GLU
+Mutating residue = SERA175 into MET
+Mutating residue = SERA208 into GLN
+Mutating residue = ASPA216 into ARG
+Mutating residue = LEUA44 into GLY
+Mutating residue = THRA63 into VAL
+Mutating residue = TYRA74 into ALA
+Mutating residue = PHEA83 into LEU
+Mutating residue = META88 into HIS
+Mutating residue = GLYA160 into THR
+Mutating residue = GLNA183 into LEU
+Mutating residue = LEUA194 into ALA
+Mutating residue = GLNA204 into ALA
+Mutating residue = ASNA212 into GLY
+Mutating residue = THRA38 into GLU
+Mutating residue = SERA175 into MET
+Mutating residue = SERA208 into GLN
+Mutating residue = ASPA216 into ARG
+Mutating residue = LEUA44 into GLY
+Mutating residue = THRA63 into VAL
+Mutating residue = TYRA74 into ALA
+Mutating residue = PHEA83 into LEU
+Mutating residue = META88 into HIS
+Mutating residue = GLYA160 into THR
+Mutating residue = GLNA183 into LEU
+Mutating residue = LEUA194 into ALA
+Mutating residue = GLNA204 into ALA
+Mutating residue = ASNA212 into GLY
+Mutating residue = THRA38 into GLU
+Mutating residue = SERA175 into MET
+Mutating residue = SERA208 into GLN
+Mutating residue = ASPA216 into ARG
+Mutating residue = LEUA44 into GLY
+Mutating residue = THRA63 into VAL
+Mutating residue = TYRA74 into ALA
+Mutating residue = PHEA83 into LEU
+Mutating residue = META88 into HIS
+Mutating residue = GLYA160 into THR
+Mutating residue = GLNA183 into LEU
+Mutating residue = LEUA194 into ALA
+Mutating residue = GLNA204 into ALA
+Mutating residue = ASNA212 into GLY
+Mutating residue = THRA38 into GLU
+Mutating residue = SERA175 into MET
+Mutating residue = SERA208 into GLN
+Mutating residue = ASPA216 into ARG
+Mutating residue = LEUA44 into GLY
+Mutating residue = THRA63 into VAL
+Mutating residue = TYRA74 into ALA
+Mutating residue = PHEA83 into LEU
+Mutating residue = META88 into HIS
+Mutating residue = GLYA160 into THR
+Mutating residue = GLNA183 into LEU
+Mutating residue = LEUA194 into ALA
+Mutating residue = GLNA204 into ALA
+Mutating residue = ASNA212 into GLY
+Mutating residue = THRA38 into GLU
+Mutating residue = SERA175 into MET
+Mutating residue = SERA208 into GLN
+Mutating residue = ASPA216 into ARG
+Mutating residue = LEUA15 into ILE
+Mutating residue = LYSA45 into CYS
+Mutating residue = ALAA110 into GLY
+Mutating residue = VALA112 into LEU
+Mutating residue = GLYA127 into VAL
+Mutating residue = ALAA163 into VAL
+Mutating residue = LYSA79 into ARG
+Mutating residue = ASPA117 into ARG
+Mutating residue = H2SA139 into ARG
+Mutating residue = ILEA167 into SER
+Mutating residue = LEUA194 into MET
+Mutating residue = ASNA198 into ARG
+Mutating residue = THRA203 into LYS
+Mutating residue = LEUA207 into ARG
+Mutating residue = LEUA15 into ILE
+Mutating residue = LYSA45 into CYS
+Mutating residue = ALAA110 into GLY
+Mutating residue = VALA112 into LEU
+Mutating residue = GLYA127 into VAL
+Mutating residue = ALAA163 into VAL
+Mutating residue = LYSA79 into ARG
+Mutating residue = ASPA117 into ARG
+Mutating residue = H2SA139 into ARG
+Mutating residue = ILEA167 into SER
+Mutating residue = LEUA194 into MET
+Mutating residue = ASNA198 into ARG
+Mutating residue = THRA203 into LYS
+Mutating residue = LEUA207 into ARG
+Mutating residue = LEUA15 into ILE
+Mutating residue = LYSA45 into CYS
+Mutating residue = ALAA110 into GLY
+Mutating residue = VALA112 into LEU
+Mutating residue = GLYA127 into VAL
+Mutating residue = ALAA163 into VAL
+Mutating residue = LYSA79 into ARG
+Mutating residue = ASPA117 into ARG
+Mutating residue = H2SA139 into ARG
+Mutating residue = ILEA167 into SER
+Mutating residue = LEUA194 into MET
+Mutating residue = ASNA198 into ARG
+Mutating residue = THRA203 into LYS
+Mutating residue = LEUA207 into ARG
+Mutating residue = LEUA15 into ILE
+Mutating residue = LYSA45 into CYS
+Mutating residue = ALAA110 into GLY
+Mutating residue = VALA112 into LEU
+Mutating residue = GLYA127 into VAL
+Mutating residue = ALAA163 into VAL
+Mutating residue = LYSA79 into ARG
+Mutating residue = ASPA117 into ARG
+Mutating residue = H2SA139 into ARG
+Mutating residue = ILEA167 into SER
+Mutating residue = LEUA194 into MET
+Mutating residue = ASNA198 into ARG
+Mutating residue = THRA203 into LYS
+Mutating residue = LEUA207 into ARG
+Mutating residue = LEUA15 into ILE
+Mutating residue = LYSA45 into CYS
+Mutating residue = ALAA110 into GLY
+Mutating residue = VALA112 into LEU
+Mutating residue = GLYA127 into VAL
+Mutating residue = ALAA163 into VAL
+Mutating residue = LYSA79 into ARG
+Mutating residue = ASPA117 into ARG
+Mutating residue = H2SA139 into ARG
+Mutating residue = ILEA167 into SER
+Mutating residue = LEUA194 into MET
+Mutating residue = ASNA198 into ARG
+Mutating residue = THRA203 into LYS
+Mutating residue = LEUA207 into ARG
+Mutating residue = PROA192 into LEU
+Mutating residue = PROA192 into LEU
+Mutating residue = PROA192 into LEU
+Mutating residue = PROA192 into LEU
+Mutating residue = PROA192 into LEU
+Mutating residue = SERA28 into ALA
+Mutating residue = VALA29 into THR
+Mutating residue = ASNA39 into ALA
+Mutating residue = LEUA44 into GLU
+Mutating residue = LYSA113 into SER
+Mutating residue = ASNA144 into SER
+Mutating residue = PHEA165 into SER
+Mutating residue = SERA28 into ALA
+Mutating residue = VALA29 into THR
+Mutating residue = ASNA39 into ALA
+Mutating residue = LEUA44 into GLU
+Mutating residue = LYSA113 into SER
+Mutating residue = ASNA144 into SER
+Mutating residue = PHEA165 into SER
+Mutating residue = SERA28 into ALA
+Mutating residue = VALA29 into THR
+Mutating residue = ASNA39 into ALA
+Mutating residue = LEUA44 into GLU
+Mutating residue = LYSA113 into SER
+Mutating residue = ASNA144 into SER
+Mutating residue = PHEA165 into SER
+Mutating residue = SERA28 into ALA
+Mutating residue = VALA29 into THR
+Mutating residue = ASNA39 into ALA
+Mutating residue = LEUA44 into GLU
+Mutating residue = LYSA113 into SER
+Mutating residue = ASNA144 into SER
+Mutating residue = PHEA165 into SER
+Mutating residue = SERA28 into ALA
+Mutating residue = VALA29 into THR
+Mutating residue = ASNA39 into ALA
+Mutating residue = LEUA44 into GLU
+Mutating residue = LYSA113 into SER
+Mutating residue = ASNA144 into SER
+Mutating residue = PHEA165 into SER
+Mutating residue = VALA61 into SER
+Mutating residue = VALA61 into SER
+Mutating residue = VALA61 into SER
+Mutating residue = VALA61 into SER
+Mutating residue = VALA61 into SER
+Mutating residue = VALA11 into THR
+Mutating residue = VALA55 into THR
+Mutating residue = THRA63 into PRO
+Mutating residue = ASPA129 into LEU
+Mutating residue = ILEA136 into VAL
+Mutating residue = SERA147 into TYR
+Mutating residue = GLUA172 into GLY
+Mutating residue = GLUA111 into SER
+Mutating residue = LYSA140 into MET
+Mutating residue = VALA11 into THR
+Mutating residue = VALA55 into THR
+Mutating residue = THRA63 into PRO
+Mutating residue = ASPA129 into LEU
+Mutating residue = ILEA136 into VAL
+Mutating residue = SERA147 into TYR
+Mutating residue = GLUA172 into GLY
+Mutating residue = GLUA111 into SER
+Mutating residue = LYSA140 into MET
+Mutating residue = VALA11 into THR
+Mutating residue = VALA55 into THR
+Mutating residue = THRA63 into PRO
+Mutating residue = ASPA129 into LEU
+Mutating residue = ILEA136 into VAL
+Mutating residue = SERA147 into TYR
+Mutating residue = GLUA172 into GLY
+Mutating residue = GLUA111 into SER
+Mutating residue = LYSA140 into MET
+Mutating residue = VALA11 into THR
+Mutating residue = VALA55 into THR
+Mutating residue = THRA63 into PRO
+Mutating residue = ASPA129 into LEU
+Mutating residue = ILEA136 into VAL
+Mutating residue = SERA147 into TYR
+Mutating residue = GLUA172 into GLY
+Mutating residue = GLUA111 into SER
+Mutating residue = LYSA140 into MET
+Mutating residue = VALA11 into THR
+Mutating residue = VALA55 into THR
+Mutating residue = THRA63 into PRO
+Mutating residue = ASPA129 into LEU
+Mutating residue = ILEA136 into VAL
+Mutating residue = SERA147 into TYR
+Mutating residue = GLUA172 into GLY
+Mutating residue = GLUA111 into SER
+Mutating residue = LYSA140 into MET
+Mutating residue = ARGA109 into PRO
+Mutating residue = ARGA109 into PRO
+Mutating residue = ARGA109 into PRO
+Mutating residue = ARGA109 into PRO
+Mutating residue = ARGA109 into PRO
+Mutating residue = GLYA51 into LEU
+Mutating residue = GLYA51 into LEU
+Mutating residue = GLYA51 into LEU
+Mutating residue = GLYA51 into LEU
+Mutating residue = GLYA51 into LEU
+Mutating residue = ASNA23 into ARG
+Mutating residue = THRA63 into MET
+Mutating residue = PHEA100 into MET
+Mutating residue = ARGA168 into ASP
+Mutating residue = ASNA23 into ARG
+Mutating residue = THRA63 into MET
+Mutating residue = PHEA100 into MET
+Mutating residue = ARGA168 into ASP
+Mutating residue = ASNA23 into ARG
+Mutating residue = THRA63 into MET
+Mutating residue = PHEA100 into MET
+Mutating residue = ARGA168 into ASP
+Mutating residue = ASNA23 into ARG
+Mutating residue = THRA63 into MET
+Mutating residue = PHEA100 into MET
+Mutating residue = ARGA168 into ASP
+Mutating residue = ASNA23 into ARG
+Mutating residue = THRA63 into MET
+Mutating residue = PHEA100 into MET
+Mutating residue = ARGA168 into ASP
+Mutating residue = THRA62 into ALA
+Mutating residue = GLUA124 into VAL
+Mutating residue = GLUA222 into ILE
+Mutating residue = ILEA167 into SER
+Mutating residue = THRA62 into ALA
+Mutating residue = GLUA124 into VAL
+Mutating residue = GLUA222 into ILE
+Mutating residue = ILEA167 into SER
+Mutating residue = THRA62 into ALA
+Mutating residue = GLUA124 into VAL
+Mutating residue = GLUA222 into ILE
+Mutating residue = ILEA167 into SER
+Mutating residue = THRA62 into ALA
+Mutating residue = GLUA124 into VAL
+Mutating residue = GLUA222 into ILE
+Mutating residue = ILEA167 into SER
+Mutating residue = THRA62 into ALA
+Mutating residue = GLUA124 into VAL
+Mutating residue = GLUA222 into ILE
+Mutating residue = ILEA167 into SER
+Mutating residue = VALA12 into ALA
+Mutating residue = LEUA60 into ILE
+Mutating residue = SERA72 into PRO
+Mutating residue = LYSA126 into VAL
+Mutating residue = LEUA137 into ALA
+Mutating residue = TYRA151 into PHE
+Mutating residue = ASPA155 into VAL
+Mutating residue = LEUA178 into VAL
+Mutating residue = LEUA195 into THR
+Mutating residue = ASPA21 into GLU
+Mutating residue = ASNA39 into ARG
+Mutating residue = THRA43 into MET
+Mutating residue = LEUA53 into SER
+Mutating residue = GLYA104 into SER
+Mutating residue = PROA211 into SER
+Mutating residue = VALA12 into ALA
+Mutating residue = LEUA60 into ILE
+Mutating residue = SERA72 into PRO
+Mutating residue = LYSA126 into VAL
+Mutating residue = LEUA137 into ALA
+Mutating residue = TYRA151 into PHE
+Mutating residue = ASPA155 into VAL
+Mutating residue = LEUA178 into VAL
+Mutating residue = LEUA195 into THR
+Mutating residue = ASPA21 into GLU
+Mutating residue = ASNA39 into ARG
+Mutating residue = THRA43 into MET
+Mutating residue = LEUA53 into SER
+Mutating residue = GLYA104 into SER
+Mutating residue = PROA211 into SER
+Mutating residue = VALA12 into ALA
+Mutating residue = LEUA60 into ILE
+Mutating residue = SERA72 into PRO
+Mutating residue = LYSA126 into VAL
+Mutating residue = LEUA137 into ALA
+Mutating residue = TYRA151 into PHE
+Mutating residue = ASPA155 into VAL
+Mutating residue = LEUA178 into VAL
+Mutating residue = LEUA195 into THR
+Mutating residue = ASPA21 into GLU
+Mutating residue = ASNA39 into ARG
+Mutating residue = THRA43 into MET
+Mutating residue = LEUA53 into SER
+Mutating residue = GLYA104 into SER
+Mutating residue = PROA211 into SER
+Mutating residue = VALA12 into ALA
+Mutating residue = LEUA60 into ILE
+Mutating residue = SERA72 into PRO
+Mutating residue = LYSA126 into VAL
+Mutating residue = LEUA137 into ALA
+Mutating residue = TYRA151 into PHE
+Mutating residue = ASPA155 into VAL
+Mutating residue = LEUA178 into VAL
+Mutating residue = LEUA195 into THR
+Mutating residue = ASPA21 into GLU
+Mutating residue = ASNA39 into ARG
+Mutating residue = THRA43 into MET
+Mutating residue = LEUA53 into SER
+Mutating residue = GLYA104 into SER
+Mutating residue = PROA211 into SER
+Mutating residue = VALA12 into ALA
+Mutating residue = LEUA60 into ILE
+Mutating residue = SERA72 into PRO
+Mutating residue = LYSA126 into VAL
+Mutating residue = LEUA137 into ALA
+Mutating residue = TYRA151 into PHE
+Mutating residue = ASPA155 into VAL
+Mutating residue = LEUA178 into VAL
+Mutating residue = LEUA195 into THR
+Mutating residue = ASPA21 into GLU
+Mutating residue = ASNA39 into ARG
+Mutating residue = THRA43 into MET
+Mutating residue = LEUA53 into SER
+Mutating residue = GLYA104 into SER
+Mutating residue = PROA211 into SER
+Mutating residue = PHEA46 into VAL
+Mutating residue = TYRA143 into ALA
+Mutating residue = ASNA185 into PHE
+Mutating residue = THRA225 into ILE
+Mutating residue = ILEA47 into ARG
+Mutating residue = ASPA103 into ARG
+Mutating residue = ASNA135 into MET
+Mutating residue = GLUA142 into ASN
+Mutating residue = PHEA46 into VAL
+Mutating residue = TYRA143 into ALA
+Mutating residue = ASNA185 into PHE
+Mutating residue = THRA225 into ILE
+Mutating residue = ILEA47 into ARG
+Mutating residue = ASPA103 into ARG
+Mutating residue = ASNA135 into MET
+Mutating residue = GLUA142 into ASN
+Mutating residue = PHEA46 into VAL
+Mutating residue = TYRA143 into ALA
+Mutating residue = ASNA185 into PHE
+Mutating residue = THRA225 into ILE
+Mutating residue = ILEA47 into ARG
+Mutating residue = ASPA103 into ARG
+Mutating residue = ASNA135 into MET
+Mutating residue = GLUA142 into ASN
+Mutating residue = PHEA46 into VAL
+Mutating residue = TYRA143 into ALA
+Mutating residue = ASNA185 into PHE
+Mutating residue = THRA225 into ILE
+Mutating residue = ILEA47 into ARG
+Mutating residue = ASPA103 into ARG
+Mutating residue = ASNA135 into MET
+Mutating residue = GLUA142 into ASN
+Mutating residue = PHEA46 into VAL
+Mutating residue = TYRA143 into ALA
+Mutating residue = ASNA185 into PHE
+Mutating residue = THRA225 into ILE
+Mutating residue = ILEA47 into ARG
+Mutating residue = ASPA103 into ARG
+Mutating residue = ASNA135 into MET
+Mutating residue = GLUA142 into ASN
+Mutating residue = GLUA6 into VAL
+Mutating residue = PROA54 into ALA
+Mutating residue = META88 into THR
+Mutating residue = THRA105 into PHE
+Mutating residue = ASNA144 into GLY
+Mutating residue = ASNA146 into ALA
+Mutating residue = GLYA228 into VAL
+Mutating residue = VALA11 into LYS
+Mutating residue = GLYA20 into GLU
+Mutating residue = ASNA159 into ARG
+Mutating residue = ALAA179 into GLU
+Mutating residue = GLUA6 into VAL
+Mutating residue = PROA54 into ALA
+Mutating residue = META88 into THR
+Mutating residue = THRA105 into PHE
+Mutating residue = ASNA144 into GLY
+Mutating residue = ASNA146 into ALA
+Mutating residue = GLYA228 into VAL
+Mutating residue = VALA11 into LYS
+Mutating residue = GLYA20 into GLU
+Mutating residue = ASNA159 into ARG
+Mutating residue = ALAA179 into GLU
+Mutating residue = GLUA6 into VAL
+Mutating residue = PROA54 into ALA
+Mutating residue = META88 into THR
+Mutating residue = THRA105 into PHE
+Mutating residue = ASNA144 into GLY
+Mutating residue = ASNA146 into ALA
+Mutating residue = GLYA228 into VAL
+Mutating residue = VALA11 into LYS
+Mutating residue = GLYA20 into GLU
+Mutating residue = ASNA159 into ARG
+Mutating residue = ALAA179 into GLU
+Mutating residue = GLUA6 into VAL
+Mutating residue = PROA54 into ALA
+Mutating residue = META88 into THR
+Mutating residue = THRA105 into PHE
+Mutating residue = ASNA144 into GLY
+Mutating residue = ASNA146 into ALA
+Mutating residue = GLYA228 into VAL
+Mutating residue = VALA11 into LYS
+Mutating residue = GLYA20 into GLU
+Mutating residue = ASNA159 into ARG
+Mutating residue = ALAA179 into GLU
+Mutating residue = GLUA6 into VAL
+Mutating residue = PROA54 into ALA
+Mutating residue = META88 into THR
+Mutating residue = THRA105 into PHE
+Mutating residue = ASNA144 into GLY
+Mutating residue = ASNA146 into ALA
+Mutating residue = GLYA228 into VAL
+Mutating residue = VALA11 into LYS
+Mutating residue = GLYA20 into GLU
+Mutating residue = ASNA159 into ARG
+Mutating residue = ALAA179 into GLU
+Mutating residue = LEUA7 into CYS
+Mutating residue = ASNA23 into ALA
+Mutating residue = LYSA45 into THR
+Mutating residue = SERA202 into PRO
+Mutating residue = LEUA7 into CYS
+Mutating residue = ASNA23 into ALA
+Mutating residue = LYSA45 into THR
+Mutating residue = SERA202 into PRO
+Mutating residue = LEUA7 into CYS
+Mutating residue = ASNA23 into ALA
+Mutating residue = LYSA45 into THR
+Mutating residue = SERA202 into PRO
+Mutating residue = LEUA7 into CYS
+Mutating residue = ASNA23 into ALA
+Mutating residue = LYSA45 into THR
+Mutating residue = SERA202 into PRO
+Mutating residue = LEUA7 into CYS
+Mutating residue = ASNA23 into ALA
+Mutating residue = LYSA45 into THR
+Mutating residue = SERA202 into PRO
+Mutating residue = LYSA41 into TRP
+Mutating residue = ASPA102 into HIS
+Mutating residue = ASPA117 into LEU
+Mutating residue = PROA192 into LEU
+Mutating residue = LEUA201 into ILE
+Mutating residue = ASNA23 into ASP
+Mutating residue = THRA43 into GLN
+Mutating residue = VALA120 into SER
+Mutating residue = ASPA133 into SER
+Mutating residue = ASPA155 into MET
+Mutating residue = VALA176 into LYS
+Mutating residue = PROA211 into SER
+Mutating residue = LYSA41 into TRP
+Mutating residue = ASPA102 into HIS
+Mutating residue = ASPA117 into LEU
+Mutating residue = PROA192 into LEU
+Mutating residue = LEUA201 into ILE
+Mutating residue = ASNA23 into ASP
+Mutating residue = THRA43 into GLN
+Mutating residue = VALA120 into SER
+Mutating residue = ASPA133 into SER
+Mutating residue = ASPA155 into MET
+Mutating residue = VALA176 into LYS
+Mutating residue = PROA211 into SER
+Mutating residue = LYSA41 into TRP
+Mutating residue = ASPA102 into HIS
+Mutating residue = ASPA117 into LEU
+Mutating residue = PROA192 into LEU
+Mutating residue = LEUA201 into ILE
+Mutating residue = ASNA23 into ASP
+Mutating residue = THRA43 into GLN
+Mutating residue = VALA120 into SER
+Mutating residue = ASPA133 into SER
+Mutating residue = ASPA155 into MET
+Mutating residue = VALA176 into LYS
+Mutating residue = PROA211 into SER
+Mutating residue = LYSA41 into TRP
+Mutating residue = ASPA102 into HIS
+Mutating residue = ASPA117 into LEU
+Mutating residue = PROA192 into LEU
+Mutating residue = LEUA201 into ILE
+Mutating residue = ASNA23 into ASP
+Mutating residue = THRA43 into GLN
+Mutating residue = VALA120 into SER
+Mutating residue = ASPA133 into SER
+Mutating residue = ASPA155 into MET
+Mutating residue = VALA176 into LYS
+Mutating residue = PROA211 into SER
+Mutating residue = LYSA41 into TRP
+Mutating residue = ASPA102 into HIS
+Mutating residue = ASPA117 into LEU
+Mutating residue = PROA192 into LEU
+Mutating residue = LEUA201 into ILE
+Mutating residue = ASNA23 into ASP
+Mutating residue = THRA43 into GLN
+Mutating residue = VALA120 into SER
+Mutating residue = ASPA133 into SER
+Mutating residue = ASPA155 into MET
+Mutating residue = VALA176 into LYS
+Mutating residue = PROA211 into SER
+Mutating residue = GLUA17 into VAL
+Mutating residue = GLYA51 into VAL
+Mutating residue = GLNA184 into PRO
+Mutating residue = PHEA46 into MET
+Mutating residue = ASNA159 into ARG
+Mutating residue = GLUA17 into VAL
+Mutating residue = GLYA51 into VAL
+Mutating residue = GLNA184 into PRO
+Mutating residue = PHEA46 into MET
+Mutating residue = ASNA159 into ARG
+Mutating residue = GLUA17 into VAL
+Mutating residue = GLYA51 into VAL
+Mutating residue = GLNA184 into PRO
+Mutating residue = PHEA46 into MET
+Mutating residue = ASNA159 into ARG
+Mutating residue = GLUA17 into VAL
+Mutating residue = GLYA51 into VAL
+Mutating residue = GLNA184 into PRO
+Mutating residue = PHEA46 into MET
+Mutating residue = ASNA159 into ARG
+Mutating residue = GLUA17 into VAL
+Mutating residue = GLYA51 into VAL
+Mutating residue = GLNA184 into PRO
+Mutating residue = PHEA46 into MET
+Mutating residue = ASNA159 into ARG
+Mutating residue = ASPA36 into THR
+Mutating residue = LYSA209 into GLY
+Mutating residue = ASPA21 into GLU
+Mutating residue = PROA196 into ASN
+Mutating residue = TYRA200 into ARG
+Mutating residue = ASPA36 into THR
+Mutating residue = LYSA209 into GLY
+Mutating residue = ASPA21 into GLU
+Mutating residue = PROA196 into ASN
+Mutating residue = TYRA200 into ARG
+Mutating residue = ASPA36 into THR
+Mutating residue = LYSA209 into GLY
+Mutating residue = ASPA21 into GLU
+Mutating residue = PROA196 into ASN
+Mutating residue = TYRA200 into ARG
+Mutating residue = ASPA36 into THR
+Mutating residue = LYSA209 into GLY
+Mutating residue = ASPA21 into GLU
+Mutating residue = PROA196 into ASN
+Mutating residue = TYRA200 into ARG
+Mutating residue = ASPA36 into THR
+Mutating residue = LYSA209 into GLY
+Mutating residue = ASPA21 into GLU
+Mutating residue = PROA196 into ASN
+Mutating residue = TYRA200 into ARG
+Mutating residue = THRA9 into ALA
+Mutating residue = PROA58 into ALA
+Mutating residue = ASPA102 into GLY
+Mutating residue = THRA38 into ASN
+Mutating residue = LYSA41 into SER
+Mutating residue = THRA43 into SER
+Mutating residue = THRA186 into ARG
+Mutating residue = THRA9 into ALA
+Mutating residue = PROA58 into ALA
+Mutating residue = ASPA102 into GLY
+Mutating residue = THRA38 into ASN
+Mutating residue = LYSA41 into SER
+Mutating residue = THRA43 into SER
+Mutating residue = THRA186 into ARG
+Mutating residue = THRA9 into ALA
+Mutating residue = PROA58 into ALA
+Mutating residue = ASPA102 into GLY
+Mutating residue = THRA38 into ASN
+Mutating residue = LYSA41 into SER
+Mutating residue = THRA43 into SER
+Mutating residue = THRA186 into ARG
+Mutating residue = THRA9 into ALA
+Mutating residue = PROA58 into ALA
+Mutating residue = ASPA102 into GLY
+Mutating residue = THRA38 into ASN
+Mutating residue = LYSA41 into SER
+Mutating residue = THRA43 into SER
+Mutating residue = THRA186 into ARG
+Mutating residue = THRA9 into ALA
+Mutating residue = PROA58 into ALA
+Mutating residue = ASPA102 into GLY
+Mutating residue = THRA38 into ASN
+Mutating residue = LYSA41 into SER
+Mutating residue = THRA43 into SER
+Mutating residue = THRA186 into ARG
+Mutating residue = THRA62 into ILE
+Mutating residue = THRA62 into ILE
+Mutating residue = THRA62 into ILE
+Mutating residue = THRA62 into ILE
+Mutating residue = THRA62 into ILE
+Mutating residue = GLUA32 into ALA
+Mutating residue = SERA86 into VAL
+Mutating residue = LYSA101 into VAL
+Mutating residue = ASPA129 into LEU
+Mutating residue = VALA176 into GLY
+Mutating residue = LEUA178 into VAL
+Mutating residue = VALA22 into LYS
+Mutating residue = CYSA48 into SER
+Mutating residue = PHEA100 into ARG
+Mutating residue = GLUA32 into ALA
+Mutating residue = SERA86 into VAL
+Mutating residue = LYSA101 into VAL
+Mutating residue = ASPA129 into LEU
+Mutating residue = VALA176 into GLY
+Mutating residue = LEUA178 into VAL
+Mutating residue = VALA22 into LYS
+Mutating residue = CYSA48 into SER
+Mutating residue = PHEA100 into ARG
+Mutating residue = GLUA32 into ALA
+Mutating residue = SERA86 into VAL
+Mutating residue = LYSA101 into VAL
+Mutating residue = ASPA129 into LEU
+Mutating residue = VALA176 into GLY
+Mutating residue = LEUA178 into VAL
+Mutating residue = VALA22 into LYS
+Mutating residue = CYSA48 into SER
+Mutating residue = PHEA100 into ARG
+Mutating residue = GLUA32 into ALA
+Mutating residue = SERA86 into VAL
+Mutating residue = LYSA101 into VAL
+Mutating residue = ASPA129 into LEU
+Mutating residue = VALA176 into GLY
+Mutating residue = LEUA178 into VAL
+Mutating residue = VALA22 into LYS
+Mutating residue = CYSA48 into SER
+Mutating residue = PHEA100 into ARG
+Mutating residue = GLUA32 into ALA
+Mutating residue = SERA86 into VAL
+Mutating residue = LYSA101 into VAL
+Mutating residue = ASPA129 into LEU
+Mutating residue = VALA176 into GLY
+Mutating residue = LEUA178 into VAL
+Mutating residue = VALA22 into LYS
+Mutating residue = CYSA48 into SER
+Mutating residue = PHEA100 into ARG
+Mutating residue = THRA108 into CYS
+Mutating residue = ALAA163 into ILE
+Mutating residue = LEUA221 into ALA
+Mutating residue = GLYA232 into THR
+Mutating residue = TYRA74 into SER
+Mutating residue = VALA93 into LYS
+Mutating residue = GLYA104 into ARG
+Mutating residue = ILEA161 into ASN
+Mutating residue = PHEA223 into MET
+Mutating residue = THRA108 into CYS
+Mutating residue = ALAA163 into ILE
+Mutating residue = LEUA221 into ALA
+Mutating residue = GLYA232 into THR
+Mutating residue = TYRA74 into SER
+Mutating residue = VALA93 into LYS
+Mutating residue = GLYA104 into ARG
+Mutating residue = ILEA161 into ASN
+Mutating residue = PHEA223 into MET
+Mutating residue = THRA108 into CYS
+Mutating residue = ALAA163 into ILE
+Mutating residue = LEUA221 into ALA
+Mutating residue = GLYA232 into THR
+Mutating residue = TYRA74 into SER
+Mutating residue = VALA93 into LYS
+Mutating residue = GLYA104 into ARG
+Mutating residue = ILEA161 into ASN
+Mutating residue = PHEA223 into MET
+Mutating residue = THRA108 into CYS
+Mutating residue = ALAA163 into ILE
+Mutating residue = LEUA221 into ALA
+Mutating residue = GLYA232 into THR
+Mutating residue = TYRA74 into SER
+Mutating residue = VALA93 into LYS
+Mutating residue = GLYA104 into ARG
+Mutating residue = ILEA161 into ASN
+Mutating residue = PHEA223 into MET
+Mutating residue = THRA108 into CYS
+Mutating residue = ALAA163 into ILE
+Mutating residue = LEUA221 into ALA
+Mutating residue = GLYA232 into THR
+Mutating residue = TYRA74 into SER
+Mutating residue = VALA93 into LYS
+Mutating residue = GLYA104 into ARG
+Mutating residue = ILEA161 into ASN
+Mutating residue = PHEA223 into MET
+Mutating residue = TYRA74 into THR
+Mutating residue = GLUA172 into ALA
+Mutating residue = ALAA226 into THR
+Mutating residue = TYRA74 into THR
+Mutating residue = GLUA172 into ALA
+Mutating residue = ALAA226 into THR
+Mutating residue = TYRA74 into THR
+Mutating residue = GLUA172 into ALA
+Mutating residue = ALAA226 into THR
+Mutating residue = TYRA74 into THR
+Mutating residue = GLUA172 into ALA
+Mutating residue = ALAA226 into THR
+Mutating residue = TYRA74 into THR
+Mutating residue = GLUA172 into ALA
+Mutating residue = ALAA226 into THR
+Mutating residue = LEUA60 into ILE
+Mutating residue = PROA75 into ALA
+Mutating residue = PHEA165 into LEU
+Mutating residue = ALAA179 into GLY
+Mutating residue = ASPA180 into LEU
+Mutating residue = THRA43 into MET
+Mutating residue = THRA59 into SER
+Mutating residue = TYRA200 into GLN
+Mutating residue = LEUA60 into ILE
+Mutating residue = PROA75 into ALA
+Mutating residue = PHEA165 into LEU
+Mutating residue = ALAA179 into GLY
+Mutating residue = ASPA180 into LEU
+Mutating residue = THRA43 into MET
+Mutating residue = THRA59 into SER
+Mutating residue = TYRA200 into GLN
+Mutating residue = LEUA60 into ILE
+Mutating residue = PROA75 into ALA
+Mutating residue = PHEA165 into LEU
+Mutating residue = ALAA179 into GLY
+Mutating residue = ASPA180 into LEU
+Mutating residue = THRA43 into MET
+Mutating residue = THRA59 into SER
+Mutating residue = TYRA200 into GLN
+Mutating residue = LEUA60 into ILE
+Mutating residue = PROA75 into ALA
+Mutating residue = PHEA165 into LEU
+Mutating residue = ALAA179 into GLY
+Mutating residue = ASPA180 into LEU
+Mutating residue = THRA43 into MET
+Mutating residue = THRA59 into SER
+Mutating residue = TYRA200 into GLN
+Mutating residue = LEUA60 into ILE
+Mutating residue = PROA75 into ALA
+Mutating residue = PHEA165 into LEU
+Mutating residue = ALAA179 into GLY
+Mutating residue = ASPA180 into LEU
+Mutating residue = THRA43 into MET
+Mutating residue = THRA59 into SER
+Mutating residue = TYRA200 into GLN
+Mutating residue = GLNA157 into VAL
+Mutating residue = LYSA126 into SER
+Mutating residue = ALAA227 into ARG
+Mutating residue = GLNA157 into VAL
+Mutating residue = LYSA126 into SER
+Mutating residue = ALAA227 into ARG
+Mutating residue = GLNA157 into VAL
+Mutating residue = LYSA126 into SER
+Mutating residue = ALAA227 into ARG
+Mutating residue = GLNA157 into VAL
+Mutating residue = LYSA126 into SER
+Mutating residue = ALAA227 into ARG
+Mutating residue = GLNA157 into VAL
+Mutating residue = LYSA126 into SER
+Mutating residue = ALAA227 into ARG
+Mutating residue = PROA75 into SER
+Mutating residue = PROA75 into SER
+Mutating residue = PROA75 into SER
+Mutating residue = PROA75 into SER
+Mutating residue = PROA75 into SER
+Mutating residue = ILEA47 into TYR
+Mutating residue = ILEA47 into TYR
+Mutating residue = ILEA47 into TYR
+Mutating residue = ILEA47 into TYR
+Mutating residue = ILEA47 into TYR
+Mutating residue = PHEA46 into ALA
+Mutating residue = PHEA83 into HIS
+Mutating residue = LEUA125 into THR
+Mutating residue = LYSA3 into SER
+Mutating residue = ILEA14 into ARG
+Mutating residue = ASPA117 into SER
+Mutating residue = LYSA126 into ARG
+Mutating residue = LYSA166 into SER
+Mutating residue = ASPA190 into SER
+Mutating residue = PHEA46 into ALA
+Mutating residue = PHEA83 into HIS
+Mutating residue = LEUA125 into THR
+Mutating residue = LYSA3 into SER
+Mutating residue = ILEA14 into ARG
+Mutating residue = ASPA117 into SER
+Mutating residue = LYSA126 into ARG
+Mutating residue = LYSA166 into SER
+Mutating residue = ASPA190 into SER
+Mutating residue = PHEA46 into ALA
+Mutating residue = PHEA83 into HIS
+Mutating residue = LEUA125 into THR
+Mutating residue = LYSA3 into SER
+Mutating residue = ILEA14 into ARG
+Mutating residue = ASPA117 into SER
+Mutating residue = LYSA126 into ARG
+Mutating residue = LYSA166 into SER
+Mutating residue = ASPA190 into SER
+Mutating residue = PHEA46 into ALA
+Mutating residue = PHEA83 into HIS
+Mutating residue = LEUA125 into THR
+Mutating residue = LYSA3 into SER
+Mutating residue = ILEA14 into ARG
+Mutating residue = ASPA117 into SER
+Mutating residue = LYSA126 into ARG
+Mutating residue = LYSA166 into SER
+Mutating residue = ASPA190 into SER
+Mutating residue = PHEA46 into ALA
+Mutating residue = PHEA83 into HIS
+Mutating residue = LEUA125 into THR
+Mutating residue = LYSA3 into SER
+Mutating residue = ILEA14 into ARG
+Mutating residue = ASPA117 into SER
+Mutating residue = LYSA126 into ARG
+Mutating residue = LYSA166 into SER
+Mutating residue = ASPA190 into SER
+Mutating residue = CYSA70 into ARG
+Mutating residue = ALAA87 into LYS
+Mutating residue = CYSA70 into ARG
+Mutating residue = ALAA87 into LYS
+Mutating residue = CYSA70 into ARG
+Mutating residue = ALAA87 into LYS
+Mutating residue = CYSA70 into ARG
+Mutating residue = ALAA87 into LYS
+Mutating residue = CYSA70 into ARG
+Mutating residue = ALAA87 into LYS
+Your file run OK
+End time of FoldX: Sat Jun 27 23:25:45 2026
+Total time spend: 14058.04 seconds.
+validated file "2B3P_new_1_0.pdb" => successfully finished
+validated file "2B3P_new_1_1.pdb" => successfully finished
+validated file "2B3P_new_1_2.pdb" => successfully finished
+validated file "2B3P_new_1_3.pdb" => successfully finished
+validated file "2B3P_new_1_4.pdb" => successfully finished
+validated file "2B3P_new_2_0.pdb" => successfully finished
+validated file "2B3P_new_2_1.pdb" => successfully finished
+validated file "2B3P_new_2_2.pdb" => successfully finished
+validated file "2B3P_new_2_3.pdb" => successfully finished
+validated file "2B3P_new_2_4.pdb" => successfully finished
+validated file "2B3P_new_3_0.pdb" => successfully finished
+validated file "2B3P_new_3_1.pdb" => successfully finished
+validated file "2B3P_new_3_2.pdb" => successfully finished
+validated file "2B3P_new_3_3.pdb" => successfully finished
+validated file "2B3P_new_3_4.pdb" => successfully finished
+validated file "2B3P_new_4_0.pdb" => successfully finished
+validated file "2B3P_new_4_1.pdb" => successfully finished
+validated file "2B3P_new_4_2.pdb" => successfully finished
+validated file "2B3P_new_4_3.pdb" => successfully finished
+validated file "2B3P_new_4_4.pdb" => successfully finished
+validated file "2B3P_new_5_0.pdb" => successfully finished
+validated file "2B3P_new_5_1.pdb" => successfully finished
+validated file "2B3P_new_5_2.pdb" => successfully finished
+validated file "2B3P_new_5_3.pdb" => successfully finished
+validated file "2B3P_new_5_4.pdb" => successfully finished
+validated file "2B3P_new_6_0.pdb" => successfully finished
+validated file "2B3P_new_6_1.pdb" => successfully finished
+validated file "2B3P_new_6_2.pdb" => successfully finished
+validated file "2B3P_new_6_3.pdb" => successfully finished
+validated file "2B3P_new_6_4.pdb" => successfully finished
+validated file "2B3P_new_7_0.pdb" => successfully finished
+validated file "2B3P_new_7_1.pdb" => successfully finished
+validated file "2B3P_new_7_2.pdb" => successfully finished
+validated file "2B3P_new_7_3.pdb" => successfully finished
+validated file "2B3P_new_7_4.pdb" => successfully finished
+validated file "2B3P_new_8_0.pdb" => successfully finished
+validated file "2B3P_new_8_1.pdb" => successfully finished
+validated file "2B3P_new_8_2.pdb" => successfully finished
+validated file "2B3P_new_8_3.pdb" => successfully finished
+validated file "2B3P_new_8_4.pdb" => successfully finished
+validated file "2B3P_new_9_0.pdb" => successfully finished
+validated file "2B3P_new_9_1.pdb" => successfully finished
+validated file "2B3P_new_9_2.pdb" => successfully finished
+validated file "2B3P_new_9_3.pdb" => successfully finished
+validated file "2B3P_new_9_4.pdb" => successfully finished
+validated file "2B3P_new_10_0.pdb" => successfully finished
+validated file "2B3P_new_10_1.pdb" => successfully finished
+validated file "2B3P_new_10_2.pdb" => successfully finished
+validated file "2B3P_new_10_3.pdb" => successfully finished
+validated file "2B3P_new_10_4.pdb" => successfully finished
+validated file "2B3P_new_11_0.pdb" => successfully finished
+validated file "2B3P_new_11_1.pdb" => successfully finished
+validated file "2B3P_new_11_2.pdb" => successfully finished
+validated file "2B3P_new_11_3.pdb" => successfully finished
+validated file "2B3P_new_11_4.pdb" => successfully finished
+validated file "2B3P_new_12_0.pdb" => successfully finished
+validated file "2B3P_new_12_1.pdb" => successfully finished
+validated file "2B3P_new_12_2.pdb" => successfully finished
+validated file "2B3P_new_12_3.pdb" => successfully finished
+validated file "2B3P_new_12_4.pdb" => successfully finished
+validated file "2B3P_new_13_0.pdb" => successfully finished
+validated file "2B3P_new_13_1.pdb" => successfully finished
+validated file "2B3P_new_13_2.pdb" => successfully finished
+validated file "2B3P_new_13_3.pdb" => successfully finished
+validated file "2B3P_new_13_4.pdb" => successfully finished
+validated file "2B3P_new_14_0.pdb" => successfully finished
+validated file "2B3P_new_14_1.pdb" => successfully finished
+validated file "2B3P_new_14_2.pdb" => successfully finished
+validated file "2B3P_new_14_3.pdb" => successfully finished
+validated file "2B3P_new_14_4.pdb" => successfully finished
+validated file "2B3P_new_15_0.pdb" => successfully finished
+validated file "2B3P_new_15_1.pdb" => successfully finished
+validated file "2B3P_new_15_2.pdb" => successfully finished
+validated file "2B3P_new_15_3.pdb" => successfully finished
+validated file "2B3P_new_15_4.pdb" => successfully finished
+validated file "2B3P_new_16_0.pdb" => successfully finished
+validated file "2B3P_new_16_1.pdb" => successfully finished
+validated file "2B3P_new_16_2.pdb" => successfully finished
+validated file "2B3P_new_16_3.pdb" => successfully finished
+validated file "2B3P_new_16_4.pdb" => successfully finished
+validated file "2B3P_new_17_0.pdb" => successfully finished
+validated file "2B3P_new_17_1.pdb" => successfully finished
+validated file "2B3P_new_17_2.pdb" => successfully finished
+validated file "2B3P_new_17_3.pdb" => successfully finished
+validated file "2B3P_new_17_4.pdb" => successfully finished
+validated file "2B3P_new_18_0.pdb" => successfully finished
+validated file "2B3P_new_18_1.pdb" => successfully finished
+validated file "2B3P_new_18_2.pdb" => successfully finished
+validated file "2B3P_new_18_3.pdb" => successfully finished
+validated file "2B3P_new_18_4.pdb" => successfully finished
+validated file "2B3P_new_19_0.pdb" => successfully finished
+validated file "2B3P_new_19_1.pdb" => successfully finished
+validated file "2B3P_new_19_2.pdb" => successfully finished
+validated file "2B3P_new_19_3.pdb" => successfully finished
+validated file "2B3P_new_19_4.pdb" => successfully finished
+validated file "2B3P_new_20_0.pdb" => successfully finished
+validated file "2B3P_new_20_1.pdb" => successfully finished
+validated file "2B3P_new_20_2.pdb" => successfully finished
+validated file "2B3P_new_20_3.pdb" => successfully finished
+validated file "2B3P_new_20_4.pdb" => successfully finished
+validated file "2B3P_new_21_0.pdb" => successfully finished
+validated file "2B3P_new_21_1.pdb" => successfully finished
+validated file "2B3P_new_21_2.pdb" => successfully finished
+validated file "2B3P_new_21_3.pdb" => successfully finished
+validated file "2B3P_new_21_4.pdb" => successfully finished
+validated file "2B3P_new_22_0.pdb" => successfully finished
+validated file "2B3P_new_22_1.pdb" => successfully finished
+validated file "2B3P_new_22_2.pdb" => successfully finished
+validated file "2B3P_new_22_3.pdb" => successfully finished
+validated file "2B3P_new_22_4.pdb" => successfully finished
+validated file "2B3P_new_23_0.pdb" => successfully finished
+validated file "2B3P_new_23_1.pdb" => successfully finished
+validated file "2B3P_new_23_2.pdb" => successfully finished
+validated file "2B3P_new_23_3.pdb" => successfully finished
+validated file "2B3P_new_23_4.pdb" => successfully finished
+validated file "2B3P_new_24_0.pdb" => successfully finished
+validated file "2B3P_new_24_1.pdb" => successfully finished
+validated file "2B3P_new_24_2.pdb" => successfully finished
+validated file "2B3P_new_24_3.pdb" => successfully finished
+validated file "2B3P_new_24_4.pdb" => successfully finished
+validated file "2B3P_new_25_0.pdb" => successfully finished
+validated file "2B3P_new_25_1.pdb" => successfully finished
+validated file "2B3P_new_25_2.pdb" => successfully finished
+validated file "2B3P_new_25_3.pdb" => successfully finished
+validated file "2B3P_new_25_4.pdb" => successfully finished
+validated file "2B3P_new_26_0.pdb" => successfully finished
+validated file "2B3P_new_26_1.pdb" => successfully finished
+validated file "2B3P_new_26_2.pdb" => successfully finished
+validated file "2B3P_new_26_3.pdb" => successfully finished
+validated file "2B3P_new_26_4.pdb" => successfully finished
+validated file "2B3P_new_27_0.pdb" => successfully finished
+validated file "2B3P_new_27_1.pdb" => successfully finished
+validated file "2B3P_new_27_2.pdb" => successfully finished
+validated file "2B3P_new_27_3.pdb" => successfully finished
+validated file "2B3P_new_27_4.pdb" => successfully finished
+validated file "2B3P_new_28_0.pdb" => successfully finished
+validated file "2B3P_new_28_1.pdb" => successfully finished
+validated file "2B3P_new_28_2.pdb" => successfully finished
+validated file "2B3P_new_28_3.pdb" => successfully finished
+validated file "2B3P_new_28_4.pdb" => successfully finished
+validated file "2B3P_new_29_0.pdb" => successfully finished
+validated file "2B3P_new_29_1.pdb" => successfully finished
+validated file "2B3P_new_29_2.pdb" => successfully finished
+validated file "2B3P_new_29_3.pdb" => successfully finished
+validated file "2B3P_new_29_4.pdb" => successfully finished
+validated file "2B3P_new_30_0.pdb" => successfully finished
+validated file "2B3P_new_30_1.pdb" => successfully finished
+validated file "2B3P_new_30_2.pdb" => successfully finished
+validated file "2B3P_new_30_3.pdb" => successfully finished
+validated file "2B3P_new_30_4.pdb" => successfully finished
+validated file "2B3P_new_31_0.pdb" => successfully finished
+validated file "2B3P_new_31_1.pdb" => successfully finished
+validated file "2B3P_new_31_2.pdb" => successfully finished
+validated file "2B3P_new_31_3.pdb" => successfully finished
+validated file "2B3P_new_31_4.pdb" => successfully finished
+validated file "2B3P_new_32_0.pdb" => successfully finished
+validated file "2B3P_new_32_1.pdb" => successfully finished
+validated file "2B3P_new_32_2.pdb" => successfully finished
+validated file "2B3P_new_32_3.pdb" => successfully finished
+validated file "2B3P_new_32_4.pdb" => successfully finished
+validated file "2B3P_new_33_0.pdb" => successfully finished
+validated file "2B3P_new_33_1.pdb" => successfully finished
+validated file "2B3P_new_33_2.pdb" => successfully finished
+validated file "2B3P_new_33_3.pdb" => successfully finished
+validated file "2B3P_new_33_4.pdb" => successfully finished
+validated file "2B3P_new_34_0.pdb" => successfully finished
+validated file "2B3P_new_34_1.pdb" => successfully finished
+validated file "2B3P_new_34_2.pdb" => successfully finished
+validated file "2B3P_new_34_3.pdb" => successfully finished
+validated file "2B3P_new_34_4.pdb" => successfully finished
+validated file "2B3P_new_35_0.pdb" => successfully finished
+validated file "2B3P_new_35_1.pdb" => successfully finished
+validated file "2B3P_new_35_2.pdb" => successfully finished
+validated file "2B3P_new_35_3.pdb" => successfully finished
+validated file "2B3P_new_35_4.pdb" => successfully finished
+validated file "2B3P_new_36_0.pdb" => successfully finished
+validated file "2B3P_new_36_1.pdb" => successfully finished
+validated file "2B3P_new_36_2.pdb" => successfully finished
+validated file "2B3P_new_36_3.pdb" => successfully finished
+validated file "2B3P_new_36_4.pdb" => successfully finished
+validated file "2B3P_new_37_0.pdb" => successfully finished
+validated file "2B3P_new_37_1.pdb" => successfully finished
+validated file "2B3P_new_37_2.pdb" => successfully finished
+validated file "2B3P_new_37_3.pdb" => successfully finished
+validated file "2B3P_new_37_4.pdb" => successfully finished
+validated file "2B3P_new_38_0.pdb" => successfully finished
+validated file "2B3P_new_38_1.pdb" => successfully finished
+validated file "2B3P_new_38_2.pdb" => successfully finished
+validated file "2B3P_new_38_3.pdb" => successfully finished
+validated file "2B3P_new_38_4.pdb" => successfully finished
+validated file "2B3P_new_39_0.pdb" => successfully finished
+validated file "2B3P_new_39_1.pdb" => successfully finished
+validated file "2B3P_new_39_2.pdb" => successfully finished
+validated file "2B3P_new_39_3.pdb" => successfully finished
+validated file "2B3P_new_39_4.pdb" => successfully finished
+validated file "2B3P_new_40_0.pdb" => successfully finished
+validated file "2B3P_new_40_1.pdb" => successfully finished
+validated file "2B3P_new_40_2.pdb" => successfully finished
+validated file "2B3P_new_40_3.pdb" => successfully finished
+validated file "2B3P_new_40_4.pdb" => successfully finished
+validated file "2B3P_new_41_0.pdb" => successfully finished
+validated file "2B3P_new_41_1.pdb" => successfully finished
+validated file "2B3P_new_41_2.pdb" => successfully finished
+validated file "2B3P_new_41_3.pdb" => successfully finished
+validated file "2B3P_new_41_4.pdb" => successfully finished
+validated file "2B3P_new_42_0.pdb" => successfully finished
+validated file "2B3P_new_42_1.pdb" => successfully finished
+validated file "2B3P_new_42_2.pdb" => successfully finished
+validated file "2B3P_new_42_3.pdb" => successfully finished
+validated file "2B3P_new_42_4.pdb" => successfully finished
+validated file "2B3P_new_43_0.pdb" => successfully finished
+validated file "2B3P_new_43_1.pdb" => successfully finished
+validated file "2B3P_new_43_2.pdb" => successfully finished
+validated file "2B3P_new_43_3.pdb" => successfully finished
+validated file "2B3P_new_43_4.pdb" => successfully finished
+validated file "2B3P_new_44_0.pdb" => successfully finished
+validated file "2B3P_new_44_1.pdb" => successfully finished
+validated file "2B3P_new_44_2.pdb" => successfully finished
+validated file "2B3P_new_44_3.pdb" => successfully finished
+validated file "2B3P_new_44_4.pdb" => successfully finished
+validated file "2B3P_new_45_0.pdb" => successfully finished
+validated file "2B3P_new_45_1.pdb" => successfully finished
+validated file "2B3P_new_45_2.pdb" => successfully finished
+validated file "2B3P_new_45_3.pdb" => successfully finished
+validated file "2B3P_new_45_4.pdb" => successfully finished
+validated file "2B3P_new_46_0.pdb" => successfully finished
+validated file "2B3P_new_46_1.pdb" => successfully finished
+validated file "2B3P_new_46_2.pdb" => successfully finished
+validated file "2B3P_new_46_3.pdb" => successfully finished
+validated file "2B3P_new_46_4.pdb" => successfully finished
+validated file "2B3P_new_47_0.pdb" => successfully finished
+validated file "2B3P_new_47_1.pdb" => successfully finished
+validated file "2B3P_new_47_2.pdb" => successfully finished
+validated file "2B3P_new_47_3.pdb" => successfully finished
+validated file "2B3P_new_47_4.pdb" => successfully finished
+validated file "2B3P_new_48_0.pdb" => successfully finished
+validated file "2B3P_new_48_1.pdb" => successfully finished
+validated file "2B3P_new_48_2.pdb" => successfully finished
+validated file "2B3P_new_48_3.pdb" => successfully finished
+validated file "2B3P_new_48_4.pdb" => successfully finished
+validated file "2B3P_new_49_0.pdb" => successfully finished
+validated file "2B3P_new_49_1.pdb" => successfully finished
+validated file "2B3P_new_49_2.pdb" => successfully finished
+validated file "2B3P_new_49_3.pdb" => successfully finished
+validated file "2B3P_new_49_4.pdb" => successfully finished
+validated file "2B3P_new_50_0.pdb" => successfully finished
+validated file "2B3P_new_50_1.pdb" => successfully finished
+validated file "2B3P_new_50_2.pdb" => successfully finished
+validated file "2B3P_new_50_3.pdb" => successfully finished
+validated file "2B3P_new_50_4.pdb" => successfully finished
+Cleaning BuildModel...DONE
